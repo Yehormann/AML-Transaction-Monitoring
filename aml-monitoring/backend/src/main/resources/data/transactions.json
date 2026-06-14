@@ -1,0 +1,5002 @@
+[
+  {
+    "senderAccount": "ACC-1168",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1124",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-12-28T00:00:00Z",
+    "amount": 182.97,
+    "currency": "EUR",
+    "timestamp": "2026-01-04T01:18:55Z"
+  },
+  {
+    "senderAccount": "ACC-1109",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1042",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-02T00:00:00Z",
+    "amount": 4938.07,
+    "currency": "EUR",
+    "timestamp": "2026-05-14T22:32:13Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1010",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-11-08T00:00:00Z",
+    "amount": 2077.99,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:32:25Z"
+  },
+  {
+    "senderAccount": "ACC-1127",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1191",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-03T00:00:00Z",
+    "amount": 4027.09,
+    "currency": "EUR",
+    "timestamp": "2026-03-25T14:59:52Z"
+  },
+  {
+    "senderAccount": "ACC-1175",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1103",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-11-21T00:00:00Z",
+    "amount": 3544.86,
+    "currency": "EUR",
+    "timestamp": "2026-02-27T18:08:32Z"
+  },
+  {
+    "senderAccount": "ACC-1084",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1069",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-20T00:00:00Z",
+    "amount": 5959.3,
+    "currency": "EUR",
+    "timestamp": "2026-01-25T04:05:44Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1124",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-17T00:00:00Z",
+    "amount": 731.33,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T05:24:29Z"
+  },
+  {
+    "senderAccount": "ACC-1193",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1198",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-11-02T00:00:00Z",
+    "amount": 6535.5,
+    "currency": "EUR",
+    "timestamp": "2026-01-11T23:02:53Z"
+  },
+  {
+    "senderAccount": "ACC-1055",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1059",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-08-01T00:00:00Z",
+    "amount": 72.54,
+    "currency": "EUR",
+    "timestamp": "2026-03-05T19:11:54Z"
+  },
+  {
+    "senderAccount": "ACC-1129",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1130",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-01T00:00:00Z",
+    "amount": 6535.2,
+    "currency": "EUR",
+    "timestamp": "2026-04-14T08:53:00Z"
+  },
+  {
+    "senderAccount": "ACC-1056",
+    "senderCountry": "US",
+    "receiverAccount": "DORM-9009",
+    "receiverCountry": "US",
+    "receiverLastActive": "2022-12-21T00:00:00Z",
+    "amount": 21564.12,
+    "currency": "EUR",
+    "timestamp": "2026-03-20T12:38:45Z"
+  },
+  {
+    "senderAccount": "ACC-1085",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1072",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-27T00:00:00Z",
+    "amount": 7119.62,
+    "currency": "EUR",
+    "timestamp": "2026-03-30T05:25:12Z"
+  },
+  {
+    "senderAccount": "ACC-1072",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1097",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-26T00:00:00Z",
+    "amount": 2909.17,
+    "currency": "EUR",
+    "timestamp": "2026-04-01T12:53:04Z"
+  },
+  {
+    "senderAccount": "ACC-1103",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1178",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-07-27T00:00:00Z",
+    "amount": 25000.0,
+    "currency": "EUR",
+    "timestamp": "2026-03-01T09:51:11Z"
+  },
+  {
+    "senderAccount": "ACC-1195",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1125",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-18T00:00:00Z",
+    "amount": 5875.54,
+    "currency": "EUR",
+    "timestamp": "2026-05-21T12:01:27Z"
+  },
+  {
+    "senderAccount": "ACC-1107",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1150",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-07-17T00:00:00Z",
+    "amount": 837.22,
+    "currency": "EUR",
+    "timestamp": "2026-05-25T03:13:27Z"
+  },
+  {
+    "senderAccount": "ACC-1150",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1148",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-16T00:00:00Z",
+    "amount": 3900.51,
+    "currency": "EUR",
+    "timestamp": "2026-05-09T03:32:48Z"
+  },
+  {
+    "senderAccount": "ACC-1093",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1138",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-09-10T00:00:00Z",
+    "amount": 4393.51,
+    "currency": "EUR",
+    "timestamp": "2026-06-09T17:38:41Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1033",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-12-14T00:00:00Z",
+    "amount": 2649.88,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:25:25Z"
+  },
+  {
+    "senderAccount": "ACC-1120",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1089",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-11-20T00:00:00Z",
+    "amount": 2671.94,
+    "currency": "EUR",
+    "timestamp": "2026-03-21T07:02:24Z"
+  },
+  {
+    "senderAccount": "ACC-1158",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1013",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-12T00:00:00Z",
+    "amount": 6530.97,
+    "currency": "EUR",
+    "timestamp": "2026-03-11T17:14:37Z"
+  },
+  {
+    "senderAccount": "ACC-1141",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1149",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-11T00:00:00Z",
+    "amount": 2672.43,
+    "currency": "EUR",
+    "timestamp": "2026-04-23T11:00:05Z"
+  },
+  {
+    "senderAccount": "ACC-1166",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1038",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-02T00:00:00Z",
+    "amount": 2689.36,
+    "currency": "EUR",
+    "timestamp": "2026-04-07T04:23:55Z"
+  },
+  {
+    "senderAccount": "ACC-1053",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1150",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-09-21T00:00:00Z",
+    "amount": 7434.56,
+    "currency": "EUR",
+    "timestamp": "2026-01-28T23:58:52Z"
+  },
+  {
+    "senderAccount": "ACC-1176",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1092",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-11T00:00:00Z",
+    "amount": 4731.53,
+    "currency": "EUR",
+    "timestamp": "2026-01-18T02:42:54Z"
+  },
+  {
+    "senderAccount": "ACC-1186",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1036",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-09T00:00:00Z",
+    "amount": 4192.86,
+    "currency": "EUR",
+    "timestamp": "2026-03-09T15:19:45Z"
+  },
+  {
+    "senderAccount": "ACC-1145",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1042",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-08-07T00:00:00Z",
+    "amount": 5409.26,
+    "currency": "EUR",
+    "timestamp": "2026-03-13T09:32:57Z"
+  },
+  {
+    "senderAccount": "ACC-1185",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1176",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-07-17T00:00:00Z",
+    "amount": 6274.09,
+    "currency": "EUR",
+    "timestamp": "2026-05-03T04:33:59Z"
+  },
+  {
+    "senderAccount": "ACC-1118",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1059",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-21T00:00:00Z",
+    "amount": 5275.6,
+    "currency": "EUR",
+    "timestamp": "2026-06-04T21:48:41Z"
+  },
+  {
+    "senderAccount": "ACC-1147",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1062",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-09-22T00:00:00Z",
+    "amount": 2951.87,
+    "currency": "EUR",
+    "timestamp": "2026-03-05T06:44:23Z"
+  },
+  {
+    "senderAccount": "ACC-1124",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1087",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-24T00:00:00Z",
+    "amount": 6281.92,
+    "currency": "EUR",
+    "timestamp": "2026-05-13T12:55:21Z"
+  },
+  {
+    "senderAccount": "ACC-1069",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1026",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-11T00:00:00Z",
+    "amount": 4460.18,
+    "currency": "EUR",
+    "timestamp": "2026-01-26T17:31:38Z"
+  },
+  {
+    "senderAccount": "ACC-1156",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1072",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-17T00:00:00Z",
+    "amount": 1951.39,
+    "currency": "EUR",
+    "timestamp": "2026-05-27T02:23:49Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1035",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-08T00:00:00Z",
+    "amount": 9766.84,
+    "currency": "EUR",
+    "timestamp": "2026-01-29T04:43:28Z"
+  },
+  {
+    "senderAccount": "ACC-1087",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1040",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-08T00:00:00Z",
+    "amount": 4789.98,
+    "currency": "EUR",
+    "timestamp": "2026-03-13T20:34:20Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1102",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-11-19T00:00:00Z",
+    "amount": 1199.02,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T05:00:29Z"
+  },
+  {
+    "senderAccount": "ACC-1139",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1144",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-10-12T00:00:00Z",
+    "amount": 174.48,
+    "currency": "EUR",
+    "timestamp": "2026-05-08T19:00:40Z"
+  },
+  {
+    "senderAccount": "ACC-1017",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1003",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-09-21T00:00:00Z",
+    "amount": 4077.55,
+    "currency": "EUR",
+    "timestamp": "2026-02-20T21:52:19Z"
+  },
+  {
+    "senderAccount": "ACC-1073",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1019",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-07-27T00:00:00Z",
+    "amount": 4772.93,
+    "currency": "EUR",
+    "timestamp": "2026-05-06T04:21:48Z"
+  },
+  {
+    "senderAccount": "ACC-1051",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1010",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-14T00:00:00Z",
+    "amount": 3813.53,
+    "currency": "EUR",
+    "timestamp": "2026-03-03T06:46:59Z"
+  },
+  {
+    "senderAccount": "ACC-1168",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1101",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-12-19T00:00:00Z",
+    "amount": 7289.4,
+    "currency": "EUR",
+    "timestamp": "2026-02-23T07:10:16Z"
+  },
+  {
+    "senderAccount": "ACC-1070",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1057",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-08-09T00:00:00Z",
+    "amount": 5953.02,
+    "currency": "EUR",
+    "timestamp": "2026-04-15T09:26:15Z"
+  },
+  {
+    "senderAccount": "ACC-1176",
+    "senderCountry": "LU",
+    "receiverAccount": "DORM-9015",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2022-05-09T00:00:00Z",
+    "amount": 39181.25,
+    "currency": "EUR",
+    "timestamp": "2026-02-05T22:51:38Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1174",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-29T00:00:00Z",
+    "amount": 9676.23,
+    "currency": "EUR",
+    "timestamp": "2026-02-10T16:22:24Z"
+  },
+  {
+    "senderAccount": "ACC-1020",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1156",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-04T00:00:00Z",
+    "amount": 1187.79,
+    "currency": "EUR",
+    "timestamp": "2026-03-16T06:47:08Z"
+  },
+  {
+    "senderAccount": "ACC-1163",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1108",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-08T00:00:00Z",
+    "amount": 9363.98,
+    "currency": "EUR",
+    "timestamp": "2026-01-24T01:50:25Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1071",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-10-21T00:00:00Z",
+    "amount": 1118.32,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:55:25Z"
+  },
+  {
+    "senderAccount": "ACC-1143",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1062",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-11-18T00:00:00Z",
+    "amount": 1153.78,
+    "currency": "EUR",
+    "timestamp": "2026-04-22T01:31:43Z"
+  },
+  {
+    "senderAccount": "ACC-1197",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1035",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-11-21T00:00:00Z",
+    "amount": 3284.91,
+    "currency": "EUR",
+    "timestamp": "2026-01-02T00:08:50Z"
+  },
+  {
+    "senderAccount": "ACC-1020",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1153",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-07-30T00:00:00Z",
+    "amount": 2040.42,
+    "currency": "EUR",
+    "timestamp": "2026-01-08T17:45:52Z"
+  },
+  {
+    "senderAccount": "ACC-1133",
+    "senderCountry": "NG",
+    "receiverAccount": "ACC-1097",
+    "receiverCountry": "IR",
+    "receiverLastActive": "2025-08-03T00:00:00Z",
+    "amount": 198504.69,
+    "currency": "EUR",
+    "timestamp": "2026-03-29T11:32:58Z"
+  },
+  {
+    "senderAccount": "ACC-1082",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1026",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-08T00:00:00Z",
+    "amount": 4840.84,
+    "currency": "EUR",
+    "timestamp": "2026-01-16T13:08:53Z"
+  },
+  {
+    "senderAccount": "ACC-1116",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1023",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-12-26T00:00:00Z",
+    "amount": 452.1,
+    "currency": "EUR",
+    "timestamp": "2026-05-09T16:43:34Z"
+  },
+  {
+    "senderAccount": "ACC-1007",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1015",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-04T00:00:00Z",
+    "amount": 3947.64,
+    "currency": "EUR",
+    "timestamp": "2026-04-04T00:13:02Z"
+  },
+  {
+    "senderAccount": "ACC-1019",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1040",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-09-02T00:00:00Z",
+    "amount": 2365.51,
+    "currency": "EUR",
+    "timestamp": "2026-01-01T12:28:11Z"
+  },
+  {
+    "senderAccount": "ACC-1053",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1160",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-31T00:00:00Z",
+    "amount": 1431.82,
+    "currency": "EUR",
+    "timestamp": "2026-02-10T23:26:55Z"
+  },
+  {
+    "senderAccount": "ACC-1169",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1108",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-06T00:00:00Z",
+    "amount": 6051.8,
+    "currency": "EUR",
+    "timestamp": "2026-04-05T07:20:51Z"
+  },
+  {
+    "senderAccount": "ACC-1088",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1136",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-19T00:00:00Z",
+    "amount": 33886.84,
+    "currency": "EUR",
+    "timestamp": "2026-03-25T04:23:10Z"
+  },
+  {
+    "senderAccount": "ACC-1144",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1164",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-24T00:00:00Z",
+    "amount": 2563.3,
+    "currency": "EUR",
+    "timestamp": "2026-05-04T08:42:17Z"
+  },
+  {
+    "senderAccount": "ACC-1081",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1092",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-09-09T00:00:00Z",
+    "amount": 2911.34,
+    "currency": "EUR",
+    "timestamp": "2026-01-21T16:33:47Z"
+  },
+  {
+    "senderAccount": "ACC-1170",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1078",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-12-17T00:00:00Z",
+    "amount": 111.11,
+    "currency": "EUR",
+    "timestamp": "2026-01-09T19:39:36Z"
+  },
+  {
+    "senderAccount": "ACC-1127",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1088",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-10-26T00:00:00Z",
+    "amount": 1377.36,
+    "currency": "EUR",
+    "timestamp": "2026-04-12T13:22:53Z"
+  },
+  {
+    "senderAccount": "ACC-1077",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1068",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-22T00:00:00Z",
+    "amount": 3397.76,
+    "currency": "EUR",
+    "timestamp": "2026-04-06T18:07:26Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1112",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-10-15T00:00:00Z",
+    "amount": 1873.87,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:30:25Z"
+  },
+  {
+    "senderAccount": "ACC-1036",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1169",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-16T00:00:00Z",
+    "amount": 4475.91,
+    "currency": "EUR",
+    "timestamp": "2026-04-12T05:12:21Z"
+  },
+  {
+    "senderAccount": "ACC-1011",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1108",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-16T00:00:00Z",
+    "amount": 7479.93,
+    "currency": "EUR",
+    "timestamp": "2026-03-08T21:37:15Z"
+  },
+  {
+    "senderAccount": "ACC-1038",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1088",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-10T00:00:00Z",
+    "amount": 972.75,
+    "currency": "EUR",
+    "timestamp": "2026-01-05T18:28:12Z"
+  },
+  {
+    "senderAccount": "ACC-1168",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1189",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-07-05T00:00:00Z",
+    "amount": 140.24,
+    "currency": "EUR",
+    "timestamp": "2026-02-04T02:34:09Z"
+  },
+  {
+    "senderAccount": "ACC-1029",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1118",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-18T00:00:00Z",
+    "amount": 4095.53,
+    "currency": "EUR",
+    "timestamp": "2026-01-23T19:25:54Z"
+  },
+  {
+    "senderAccount": "ACC-1077",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1175",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-08-09T00:00:00Z",
+    "amount": 64784.69,
+    "currency": "EUR",
+    "timestamp": "2026-04-27T14:07:15Z"
+  },
+  {
+    "senderAccount": "ACC-1194",
+    "senderCountry": "US",
+    "receiverAccount": "DORM-9015",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2023-12-16T00:00:00Z",
+    "amount": 8256.87,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T15:59:26Z"
+  },
+  {
+    "senderAccount": "ACC-1187",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1147",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-10-10T00:00:00Z",
+    "amount": 1933.39,
+    "currency": "EUR",
+    "timestamp": "2026-03-03T22:11:56Z"
+  },
+  {
+    "senderAccount": "ACC-1128",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1190",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-12T00:00:00Z",
+    "amount": 2757.71,
+    "currency": "EUR",
+    "timestamp": "2026-03-09T03:49:19Z"
+  },
+  {
+    "senderAccount": "ACC-1196",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1092",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-10-14T00:00:00Z",
+    "amount": 9379.59,
+    "currency": "EUR",
+    "timestamp": "2026-05-10T19:05:54Z"
+  },
+  {
+    "senderAccount": "ACC-1089",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1030",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-29T00:00:00Z",
+    "amount": 5836.47,
+    "currency": "EUR",
+    "timestamp": "2026-02-04T15:44:50Z"
+  },
+  {
+    "senderAccount": "ACC-1177",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1126",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-13T00:00:00Z",
+    "amount": 341.74,
+    "currency": "EUR",
+    "timestamp": "2026-02-25T23:11:32Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1068",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-19T00:00:00Z",
+    "amount": 3699.03,
+    "currency": "EUR",
+    "timestamp": "2026-06-04T08:40:18Z"
+  },
+  {
+    "senderAccount": "ACC-1044",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1106",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-09-21T00:00:00Z",
+    "amount": 6314.29,
+    "currency": "EUR",
+    "timestamp": "2026-06-12T15:31:18Z"
+  },
+  {
+    "senderAccount": "ACC-1125",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1157",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-08T00:00:00Z",
+    "amount": 2995.71,
+    "currency": "EUR",
+    "timestamp": "2026-03-21T05:57:28Z"
+  },
+  {
+    "senderAccount": "ACC-1113",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1113",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-09T00:00:00Z",
+    "amount": 2970.31,
+    "currency": "EUR",
+    "timestamp": "2026-02-15T20:21:52Z"
+  },
+  {
+    "senderAccount": "ACC-1119",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1031",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-19T00:00:00Z",
+    "amount": 2357.19,
+    "currency": "EUR",
+    "timestamp": "2026-02-21T22:30:30Z"
+  },
+  {
+    "senderAccount": "ACC-1143",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1049",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-24T00:00:00Z",
+    "amount": 3630.32,
+    "currency": "EUR",
+    "timestamp": "2026-03-12T09:28:59Z"
+  },
+  {
+    "senderAccount": "ACC-1015",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1134",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-13T00:00:00Z",
+    "amount": 435.69,
+    "currency": "EUR",
+    "timestamp": "2026-01-07T13:37:48Z"
+  },
+  {
+    "senderAccount": "ACC-1015",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1145",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-11-18T00:00:00Z",
+    "amount": 2623.05,
+    "currency": "EUR",
+    "timestamp": "2026-03-10T02:55:07Z"
+  },
+  {
+    "senderAccount": "ACC-1117",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1016",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-16T00:00:00Z",
+    "amount": 180.66,
+    "currency": "EUR",
+    "timestamp": "2026-01-22T12:38:06Z"
+  },
+  {
+    "senderAccount": "ACC-1098",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1086",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-21T00:00:00Z",
+    "amount": 2170.43,
+    "currency": "EUR",
+    "timestamp": "2026-02-06T06:37:52Z"
+  },
+  {
+    "senderAccount": "ACC-1057",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1076",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-28T00:00:00Z",
+    "amount": 2570.47,
+    "currency": "EUR",
+    "timestamp": "2026-05-30T17:55:57Z"
+  },
+  {
+    "senderAccount": "ACC-1107",
+    "senderCountry": "BY",
+    "receiverAccount": "ACC-1137",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-11-05T00:00:00Z",
+    "amount": 10020.47,
+    "currency": "EUR",
+    "timestamp": "2026-05-26T03:40:31Z"
+  },
+  {
+    "senderAccount": "ACC-1188",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1186",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-10T00:00:00Z",
+    "amount": 2634.14,
+    "currency": "EUR",
+    "timestamp": "2026-01-13T02:15:06Z"
+  },
+  {
+    "senderAccount": "ACC-1081",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1170",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-18T00:00:00Z",
+    "amount": 7136.09,
+    "currency": "EUR",
+    "timestamp": "2026-03-09T11:07:09Z"
+  },
+  {
+    "senderAccount": "ACC-1076",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1181",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-08-10T00:00:00Z",
+    "amount": 3330.79,
+    "currency": "EUR",
+    "timestamp": "2026-01-29T00:43:40Z"
+  },
+  {
+    "senderAccount": "ACC-1191",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1183",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-13T00:00:00Z",
+    "amount": 17567.8,
+    "currency": "EUR",
+    "timestamp": "2026-01-23T05:45:42Z"
+  },
+  {
+    "senderAccount": "ACC-1142",
+    "senderCountry": "FR",
+    "receiverAccount": "DORM-9006",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2022-11-12T00:00:00Z",
+    "amount": 22100.22,
+    "currency": "EUR",
+    "timestamp": "2026-01-02T23:18:27Z"
+  },
+  {
+    "senderAccount": "ACC-1108",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1177",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-09T00:00:00Z",
+    "amount": 5859.57,
+    "currency": "EUR",
+    "timestamp": "2026-01-26T15:58:51Z"
+  },
+  {
+    "senderAccount": "ACC-1089",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1143",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-07T00:00:00Z",
+    "amount": 5429.15,
+    "currency": "EUR",
+    "timestamp": "2026-06-04T10:51:27Z"
+  },
+  {
+    "senderAccount": "ACC-1137",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1038",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-02T00:00:00Z",
+    "amount": 5458.35,
+    "currency": "EUR",
+    "timestamp": "2026-02-01T22:47:55Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1126",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-01T00:00:00Z",
+    "amount": 614.55,
+    "currency": "EUR",
+    "timestamp": "2026-03-16T22:21:25Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1170",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-01T00:00:00Z",
+    "amount": 583.71,
+    "currency": "EUR",
+    "timestamp": "2026-02-19T11:52:21Z"
+  },
+  {
+    "senderAccount": "ACC-1085",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1121",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-08-22T00:00:00Z",
+    "amount": 1161.26,
+    "currency": "EUR",
+    "timestamp": "2026-04-11T20:15:57Z"
+  },
+  {
+    "senderAccount": "ACC-1171",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1090",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-09-11T00:00:00Z",
+    "amount": 199.0,
+    "currency": "EUR",
+    "timestamp": "2026-01-14T23:53:46Z"
+  },
+  {
+    "senderAccount": "ACC-1040",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1182",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-30T00:00:00Z",
+    "amount": 4094.61,
+    "currency": "EUR",
+    "timestamp": "2026-05-18T18:48:24Z"
+  },
+  {
+    "senderAccount": "ACC-1143",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1129",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-09-16T00:00:00Z",
+    "amount": 5695.63,
+    "currency": "EUR",
+    "timestamp": "2026-05-07T19:31:32Z"
+  },
+  {
+    "senderAccount": "ACC-1092",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1079",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-29T00:00:00Z",
+    "amount": 1576.44,
+    "currency": "EUR",
+    "timestamp": "2026-02-05T00:05:09Z"
+  },
+  {
+    "senderAccount": "ACC-1108",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1176",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-24T00:00:00Z",
+    "amount": 6834.02,
+    "currency": "EUR",
+    "timestamp": "2026-02-18T13:32:31Z"
+  },
+  {
+    "senderAccount": "ACC-1108",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1136",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-04T00:00:00Z",
+    "amount": 1283.21,
+    "currency": "EUR",
+    "timestamp": "2026-03-15T15:33:23Z"
+  },
+  {
+    "senderAccount": "ACC-1151",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1021",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-14T00:00:00Z",
+    "amount": 979.74,
+    "currency": "EUR",
+    "timestamp": "2026-05-11T12:15:36Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1186",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-20T00:00:00Z",
+    "amount": 456.7,
+    "currency": "EUR",
+    "timestamp": "2026-03-13T00:38:50Z"
+  },
+  {
+    "senderAccount": "ACC-1100",
+    "senderCountry": "RU",
+    "receiverAccount": "ACC-1151",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-13T00:00:00Z",
+    "amount": 3146.14,
+    "currency": "EUR",
+    "timestamp": "2026-04-20T14:15:26Z"
+  },
+  {
+    "senderAccount": "ACC-1183",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1178",
+    "receiverCountry": "IR",
+    "receiverLastActive": "2025-07-17T00:00:00Z",
+    "amount": 17346.75,
+    "currency": "EUR",
+    "timestamp": "2026-03-16T13:28:09Z"
+  },
+  {
+    "senderAccount": "ACC-1103",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1178",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-25T00:00:00Z",
+    "amount": 25000.0,
+    "currency": "EUR",
+    "timestamp": "2026-02-27T09:51:11Z"
+  },
+  {
+    "senderAccount": "ACC-1057",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1000",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-12T00:00:00Z",
+    "amount": 5766.8,
+    "currency": "EUR",
+    "timestamp": "2026-05-27T20:03:05Z"
+  },
+  {
+    "senderAccount": "ACC-1167",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1039",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-10-06T00:00:00Z",
+    "amount": 5004.91,
+    "currency": "EUR",
+    "timestamp": "2026-01-15T12:43:29Z"
+  },
+  {
+    "senderAccount": "ACC-1088",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1164",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-07-06T00:00:00Z",
+    "amount": 3359.78,
+    "currency": "EUR",
+    "timestamp": "2026-05-11T08:40:58Z"
+  },
+  {
+    "senderAccount": "ACC-1126",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1068",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-06T00:00:00Z",
+    "amount": 1088.22,
+    "currency": "EUR",
+    "timestamp": "2026-03-04T16:39:38Z"
+  },
+  {
+    "senderAccount": "ACC-1078",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1145",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-12-06T00:00:00Z",
+    "amount": 7583.34,
+    "currency": "EUR",
+    "timestamp": "2026-05-01T14:11:49Z"
+  },
+  {
+    "senderAccount": "ACC-1102",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1136",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-09-15T00:00:00Z",
+    "amount": 4371.98,
+    "currency": "EUR",
+    "timestamp": "2026-04-09T08:59:09Z"
+  },
+  {
+    "senderAccount": "ACC-1194",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1173",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-10-24T00:00:00Z",
+    "amount": 5041.11,
+    "currency": "EUR",
+    "timestamp": "2026-03-18T06:07:05Z"
+  },
+  {
+    "senderAccount": "ACC-1008",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1148",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-17T00:00:00Z",
+    "amount": 2647.42,
+    "currency": "EUR",
+    "timestamp": "2026-03-12T20:22:35Z"
+  },
+  {
+    "senderAccount": "ACC-1134",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1020",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-11-05T00:00:00Z",
+    "amount": 2697.9,
+    "currency": "EUR",
+    "timestamp": "2026-03-18T20:24:23Z"
+  },
+  {
+    "senderAccount": "ACC-1138",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1084",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-08T00:00:00Z",
+    "amount": 5807.1,
+    "currency": "EUR",
+    "timestamp": "2026-03-16T12:51:10Z"
+  },
+  {
+    "senderAccount": "ACC-1137",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1047",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-25T00:00:00Z",
+    "amount": 5382.08,
+    "currency": "EUR",
+    "timestamp": "2026-03-13T00:43:08Z"
+  },
+  {
+    "senderAccount": "ACC-1034",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1129",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-10-08T00:00:00Z",
+    "amount": 1341.83,
+    "currency": "EUR",
+    "timestamp": "2026-04-01T21:08:05Z"
+  },
+  {
+    "senderAccount": "ACC-1095",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1177",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-26T00:00:00Z",
+    "amount": 4619.71,
+    "currency": "EUR",
+    "timestamp": "2026-01-28T10:46:42Z"
+  },
+  {
+    "senderAccount": "ACC-1156",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1081",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-10-16T00:00:00Z",
+    "amount": 4770.11,
+    "currency": "EUR",
+    "timestamp": "2026-02-01T13:18:51Z"
+  },
+  {
+    "senderAccount": "ACC-1106",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1044",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-29T00:00:00Z",
+    "amount": 4270.28,
+    "currency": "EUR",
+    "timestamp": "2026-02-08T23:46:17Z"
+  },
+  {
+    "senderAccount": "ACC-1020",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1095",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-07-18T00:00:00Z",
+    "amount": 2715.56,
+    "currency": "EUR",
+    "timestamp": "2026-02-13T14:25:35Z"
+  },
+  {
+    "senderAccount": "ACC-1054",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1051",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-07-06T00:00:00Z",
+    "amount": 2209.39,
+    "currency": "EUR",
+    "timestamp": "2026-06-10T18:32:04Z"
+  },
+  {
+    "senderAccount": "ACC-1085",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1034",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-20T00:00:00Z",
+    "amount": 1441.96,
+    "currency": "EUR",
+    "timestamp": "2026-01-09T14:37:09Z"
+  },
+  {
+    "senderAccount": "ACC-1118",
+    "senderCountry": "IR",
+    "receiverAccount": "ACC-1046",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-06T00:00:00Z",
+    "amount": 6873.49,
+    "currency": "EUR",
+    "timestamp": "2026-01-10T18:20:36Z"
+  },
+  {
+    "senderAccount": "ACC-1030",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1198",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-08-03T00:00:00Z",
+    "amount": 5528.61,
+    "currency": "EUR",
+    "timestamp": "2026-06-07T15:40:35Z"
+  },
+  {
+    "senderAccount": "ACC-1127",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1119",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-10-11T00:00:00Z",
+    "amount": 7318.93,
+    "currency": "EUR",
+    "timestamp": "2026-01-20T03:32:51Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1138",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-07-08T00:00:00Z",
+    "amount": 683.34,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:12:29Z"
+  },
+  {
+    "senderAccount": "ACC-1198",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1148",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-31T00:00:00Z",
+    "amount": 1405.57,
+    "currency": "EUR",
+    "timestamp": "2026-04-23T03:58:17Z"
+  },
+  {
+    "senderAccount": "ACC-1179",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1140",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-11-06T00:00:00Z",
+    "amount": 6106.78,
+    "currency": "EUR",
+    "timestamp": "2026-04-02T10:13:04Z"
+  },
+  {
+    "senderAccount": "ACC-1158",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1097",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-12T00:00:00Z",
+    "amount": 6533.03,
+    "currency": "EUR",
+    "timestamp": "2026-06-06T03:16:04Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1117",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-03T00:00:00Z",
+    "amount": 746.48,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:53:25Z"
+  },
+  {
+    "senderAccount": "ACC-1101",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1007",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-02T00:00:00Z",
+    "amount": 3464.95,
+    "currency": "EUR",
+    "timestamp": "2026-05-24T04:28:43Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1130",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-06T00:00:00Z",
+    "amount": 651.23,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T09:21:25Z"
+  },
+  {
+    "senderAccount": "ACC-1163",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1143",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-18T00:00:00Z",
+    "amount": 9725.99,
+    "currency": "EUR",
+    "timestamp": "2026-01-25T08:50:25Z"
+  },
+  {
+    "senderAccount": "ACC-1120",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1093",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-22T00:00:00Z",
+    "amount": 4445.28,
+    "currency": "EUR",
+    "timestamp": "2026-03-16T08:48:49Z"
+  },
+  {
+    "senderAccount": "ACC-1012",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1142",
+    "receiverCountry": "IR",
+    "receiverLastActive": "2025-11-27T00:00:00Z",
+    "amount": 20134.71,
+    "currency": "EUR",
+    "timestamp": "2026-02-18T09:20:53Z"
+  },
+  {
+    "senderAccount": "ACC-1092",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1179",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-12-10T00:00:00Z",
+    "amount": 919.49,
+    "currency": "EUR",
+    "timestamp": "2026-06-07T17:34:41Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1138",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-12T00:00:00Z",
+    "amount": 265.78,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:21:29Z"
+  },
+  {
+    "senderAccount": "ACC-1092",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1019",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-08-24T00:00:00Z",
+    "amount": 1657.15,
+    "currency": "EUR",
+    "timestamp": "2026-04-20T13:13:00Z"
+  },
+  {
+    "senderAccount": "ACC-1098",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1157",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-11-21T00:00:00Z",
+    "amount": 6517.15,
+    "currency": "EUR",
+    "timestamp": "2026-03-23T04:38:56Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1146",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-08-19T00:00:00Z",
+    "amount": 7798.5,
+    "currency": "EUR",
+    "timestamp": "2026-03-22T21:20:44Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1029",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-08-16T00:00:00Z",
+    "amount": 9763.16,
+    "currency": "EUR",
+    "timestamp": "2026-01-28T06:43:28Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1045",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-07T00:00:00Z",
+    "amount": 5081.57,
+    "currency": "EUR",
+    "timestamp": "2026-03-19T07:55:51Z"
+  },
+  {
+    "senderAccount": "ACC-1033",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1003",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-10T00:00:00Z",
+    "amount": 175.46,
+    "currency": "EUR",
+    "timestamp": "2026-03-11T13:31:48Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1166",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-14T00:00:00Z",
+    "amount": 4017.4,
+    "currency": "EUR",
+    "timestamp": "2026-02-24T02:47:18Z"
+  },
+  {
+    "senderAccount": "ACC-1081",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1069",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-25T00:00:00Z",
+    "amount": 5402.94,
+    "currency": "EUR",
+    "timestamp": "2026-06-10T09:25:30Z"
+  },
+  {
+    "senderAccount": "ACC-1043",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1019",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-12T00:00:00Z",
+    "amount": 7252.09,
+    "currency": "EUR",
+    "timestamp": "2026-04-10T03:01:28Z"
+  },
+  {
+    "senderAccount": "ACC-1104",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1172",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-28T00:00:00Z",
+    "amount": 5286.37,
+    "currency": "EUR",
+    "timestamp": "2026-04-07T22:55:17Z"
+  },
+  {
+    "senderAccount": "ACC-1035",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1160",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-10-13T00:00:00Z",
+    "amount": 6319.45,
+    "currency": "EUR",
+    "timestamp": "2026-01-19T20:49:00Z"
+  },
+  {
+    "senderAccount": "ACC-1189",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1162",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-26T00:00:00Z",
+    "amount": 3387.67,
+    "currency": "EUR",
+    "timestamp": "2026-01-06T22:52:20Z"
+  },
+  {
+    "senderAccount": "ACC-1186",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1165",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-09-08T00:00:00Z",
+    "amount": 6963.48,
+    "currency": "EUR",
+    "timestamp": "2026-03-23T15:01:43Z"
+  },
+  {
+    "senderAccount": "ACC-1086",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1058",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-12-11T00:00:00Z",
+    "amount": 9841.49,
+    "currency": "EUR",
+    "timestamp": "2026-01-21T11:20:03Z"
+  },
+  {
+    "senderAccount": "ACC-1007",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1085",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-25T00:00:00Z",
+    "amount": 5712.97,
+    "currency": "EUR",
+    "timestamp": "2026-06-06T17:23:42Z"
+  },
+  {
+    "senderAccount": "ACC-1091",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1016",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-13T00:00:00Z",
+    "amount": 6607.54,
+    "currency": "EUR",
+    "timestamp": "2026-06-04T12:07:40Z"
+  },
+  {
+    "senderAccount": "ACC-1073",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1112",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-23T00:00:00Z",
+    "amount": 4890.53,
+    "currency": "EUR",
+    "timestamp": "2026-05-16T14:04:51Z"
+  },
+  {
+    "senderAccount": "ACC-1149",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1169",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-10-29T00:00:00Z",
+    "amount": 5719.21,
+    "currency": "EUR",
+    "timestamp": "2026-03-15T19:16:02Z"
+  },
+  {
+    "senderAccount": "ACC-1116",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1129",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-12-02T00:00:00Z",
+    "amount": 6829.7,
+    "currency": "EUR",
+    "timestamp": "2026-04-28T13:29:36Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1033",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-08-07T00:00:00Z",
+    "amount": 1771.01,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:32:29Z"
+  },
+  {
+    "senderAccount": "ACC-1180",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1012",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-02T00:00:00Z",
+    "amount": 4341.09,
+    "currency": "EUR",
+    "timestamp": "2026-02-17T12:32:37Z"
+  },
+  {
+    "senderAccount": "ACC-1155",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1167",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-11-18T00:00:00Z",
+    "amount": 20000.0,
+    "currency": "EUR",
+    "timestamp": "2026-03-06T13:47:24Z"
+  },
+  {
+    "senderAccount": "ACC-1185",
+    "senderCountry": "RU",
+    "receiverAccount": "ACC-1042",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-25T00:00:00Z",
+    "amount": 10915.41,
+    "currency": "EUR",
+    "timestamp": "2026-06-13T05:02:25Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1056",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-16T00:00:00Z",
+    "amount": 5462.8,
+    "currency": "EUR",
+    "timestamp": "2026-05-04T14:51:15Z"
+  },
+  {
+    "senderAccount": "ACC-1137",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1034",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-07-06T00:00:00Z",
+    "amount": 7570.49,
+    "currency": "EUR",
+    "timestamp": "2026-03-17T11:13:15Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1094",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-11-24T00:00:00Z",
+    "amount": 1346.38,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:41:25Z"
+  },
+  {
+    "senderAccount": "ACC-1115",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1026",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-10T00:00:00Z",
+    "amount": 4061.16,
+    "currency": "EUR",
+    "timestamp": "2026-06-07T11:22:45Z"
+  },
+  {
+    "senderAccount": "ACC-1027",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1157",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-13T00:00:00Z",
+    "amount": 7246.21,
+    "currency": "EUR",
+    "timestamp": "2026-05-24T20:48:07Z"
+  },
+  {
+    "senderAccount": "ACC-1120",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1011",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-27T00:00:00Z",
+    "amount": 2888.9,
+    "currency": "EUR",
+    "timestamp": "2026-05-04T10:26:26Z"
+  },
+  {
+    "senderAccount": "ACC-1147",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1184",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-22T00:00:00Z",
+    "amount": 3761.18,
+    "currency": "EUR",
+    "timestamp": "2026-03-02T17:21:25Z"
+  },
+  {
+    "senderAccount": "ACC-1189",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1134",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-07-26T00:00:00Z",
+    "amount": 1091.84,
+    "currency": "EUR",
+    "timestamp": "2026-01-08T07:54:57Z"
+  },
+  {
+    "senderAccount": "ACC-1118",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1163",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-09-03T00:00:00Z",
+    "amount": 7214.61,
+    "currency": "EUR",
+    "timestamp": "2026-02-19T07:37:12Z"
+  },
+  {
+    "senderAccount": "ACC-1023",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1180",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-28T00:00:00Z",
+    "amount": 4769.75,
+    "currency": "EUR",
+    "timestamp": "2026-01-19T11:35:17Z"
+  },
+  {
+    "senderAccount": "ACC-1199",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1175",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-15T00:00:00Z",
+    "amount": 6501.41,
+    "currency": "EUR",
+    "timestamp": "2026-04-01T05:17:58Z"
+  },
+  {
+    "senderAccount": "ACC-1137",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1198",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-08-02T00:00:00Z",
+    "amount": 28788.42,
+    "currency": "EUR",
+    "timestamp": "2026-04-04T21:15:42Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1116",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-06T00:00:00Z",
+    "amount": 2876.22,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T05:04:29Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1119",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-12-18T00:00:00Z",
+    "amount": 2052.76,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:31:29Z"
+  },
+  {
+    "senderAccount": "ACC-1162",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1149",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-01T00:00:00Z",
+    "amount": 4267.93,
+    "currency": "EUR",
+    "timestamp": "2026-04-17T11:31:34Z"
+  },
+  {
+    "senderAccount": "ACC-1180",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1074",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-08-22T00:00:00Z",
+    "amount": 7884.63,
+    "currency": "EUR",
+    "timestamp": "2026-02-26T04:23:26Z"
+  },
+  {
+    "senderAccount": "ACC-1024",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1100",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-29T00:00:00Z",
+    "amount": 6051.97,
+    "currency": "EUR",
+    "timestamp": "2026-03-14T11:13:49Z"
+  },
+  {
+    "senderAccount": "ACC-1050",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1154",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-22T00:00:00Z",
+    "amount": 1139.44,
+    "currency": "EUR",
+    "timestamp": "2026-04-09T20:40:58Z"
+  },
+  {
+    "senderAccount": "ACC-1167",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1172",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-04T00:00:00Z",
+    "amount": 3475.88,
+    "currency": "EUR",
+    "timestamp": "2026-04-02T09:05:37Z"
+  },
+  {
+    "senderAccount": "ACC-1073",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1182",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-27T00:00:00Z",
+    "amount": 5991.34,
+    "currency": "EUR",
+    "timestamp": "2026-01-16T08:18:13Z"
+  },
+  {
+    "senderAccount": "ACC-1132",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1174",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-12-01T00:00:00Z",
+    "amount": 7905.83,
+    "currency": "EUR",
+    "timestamp": "2026-03-28T10:09:43Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1013",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-15T00:00:00Z",
+    "amount": 3836.16,
+    "currency": "EUR",
+    "timestamp": "2026-01-25T14:44:15Z"
+  },
+  {
+    "senderAccount": "ACC-1109",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1051",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-10-15T00:00:00Z",
+    "amount": 1313.87,
+    "currency": "EUR",
+    "timestamp": "2026-05-14T17:04:14Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1119",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-12T00:00:00Z",
+    "amount": 9845.58,
+    "currency": "EUR",
+    "timestamp": "2026-01-31T05:43:28Z"
+  },
+  {
+    "senderAccount": "ACC-1195",
+    "senderCountry": "RU",
+    "receiverAccount": "ACC-1147",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-10-16T00:00:00Z",
+    "amount": 15192.76,
+    "currency": "EUR",
+    "timestamp": "2026-03-15T20:42:14Z"
+  },
+  {
+    "senderAccount": "ACC-1181",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1156",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-11-09T00:00:00Z",
+    "amount": 6517.56,
+    "currency": "EUR",
+    "timestamp": "2026-05-03T20:55:29Z"
+  },
+  {
+    "senderAccount": "ACC-1132",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1039",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-04T00:00:00Z",
+    "amount": 2800.88,
+    "currency": "EUR",
+    "timestamp": "2026-03-01T01:19:23Z"
+  },
+  {
+    "senderAccount": "ACC-1089",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1089",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-11-24T00:00:00Z",
+    "amount": 1928.34,
+    "currency": "EUR",
+    "timestamp": "2026-05-22T05:49:56Z"
+  },
+  {
+    "senderAccount": "ACC-1060",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1015",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-19T00:00:00Z",
+    "amount": 5504.29,
+    "currency": "EUR",
+    "timestamp": "2026-05-10T16:06:31Z"
+  },
+  {
+    "senderAccount": "ACC-1098",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1048",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-12-14T00:00:00Z",
+    "amount": 2246.17,
+    "currency": "EUR",
+    "timestamp": "2026-04-27T09:18:07Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1140",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-18T00:00:00Z",
+    "amount": 2997.92,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:16:29Z"
+  },
+  {
+    "senderAccount": "ACC-1140",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1071",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-12-01T00:00:00Z",
+    "amount": 1072.87,
+    "currency": "EUR",
+    "timestamp": "2026-06-10T06:13:46Z"
+  },
+  {
+    "senderAccount": "ACC-1183",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1108",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-07-31T00:00:00Z",
+    "amount": 3859.92,
+    "currency": "EUR",
+    "timestamp": "2026-06-03T05:21:51Z"
+  },
+  {
+    "senderAccount": "ACC-1121",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1156",
+    "receiverCountry": "RU",
+    "receiverLastActive": "2025-07-23T00:00:00Z",
+    "amount": 14603.94,
+    "currency": "EUR",
+    "timestamp": "2026-05-30T05:25:11Z"
+  },
+  {
+    "senderAccount": "ACC-1026",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1182",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-20T00:00:00Z",
+    "amount": 2218.69,
+    "currency": "EUR",
+    "timestamp": "2026-04-11T04:18:43Z"
+  },
+  {
+    "senderAccount": "ACC-1113",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1125",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-05T00:00:00Z",
+    "amount": 2372.11,
+    "currency": "EUR",
+    "timestamp": "2026-02-02T11:27:27Z"
+  },
+  {
+    "senderAccount": "ACC-1184",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1129",
+    "receiverCountry": "RU",
+    "receiverLastActive": "2025-11-21T00:00:00Z",
+    "amount": 18719.56,
+    "currency": "EUR",
+    "timestamp": "2026-03-24T20:45:21Z"
+  },
+  {
+    "senderAccount": "ACC-1176",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1052",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-02T00:00:00Z",
+    "amount": 6988.9,
+    "currency": "EUR",
+    "timestamp": "2026-03-21T16:29:50Z"
+  },
+  {
+    "senderAccount": "ACC-1055",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1038",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-14T00:00:00Z",
+    "amount": 933.94,
+    "currency": "EUR",
+    "timestamp": "2026-04-17T13:36:47Z"
+  },
+  {
+    "senderAccount": "ACC-1106",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1142",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-09T00:00:00Z",
+    "amount": 2675.59,
+    "currency": "EUR",
+    "timestamp": "2026-04-13T21:56:27Z"
+  },
+  {
+    "senderAccount": "ACC-1097",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1145",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-09T00:00:00Z",
+    "amount": 2733.64,
+    "currency": "EUR",
+    "timestamp": "2026-06-11T19:45:06Z"
+  },
+  {
+    "senderAccount": "ACC-1044",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1142",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-12T00:00:00Z",
+    "amount": 6743.78,
+    "currency": "EUR",
+    "timestamp": "2026-02-02T09:38:58Z"
+  },
+  {
+    "senderAccount": "ACC-1045",
+    "senderCountry": "LU",
+    "receiverAccount": "DORM-9017",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2023-11-17T00:00:00Z",
+    "amount": 39100.32,
+    "currency": "EUR",
+    "timestamp": "2026-02-28T16:40:08Z"
+  },
+  {
+    "senderAccount": "ACC-1057",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1165",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-12-13T00:00:00Z",
+    "amount": 524.12,
+    "currency": "EUR",
+    "timestamp": "2026-01-29T22:20:27Z"
+  },
+  {
+    "senderAccount": "ACC-1086",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1091",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-07-30T00:00:00Z",
+    "amount": 9398.39,
+    "currency": "EUR",
+    "timestamp": "2026-01-20T20:20:03Z"
+  },
+  {
+    "senderAccount": "ACC-1117",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1004",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-06T00:00:00Z",
+    "amount": 55.37,
+    "currency": "EUR",
+    "timestamp": "2026-01-25T02:59:13Z"
+  },
+  {
+    "senderAccount": "ACC-1178",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1061",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-09-17T00:00:00Z",
+    "amount": 397.0,
+    "currency": "EUR",
+    "timestamp": "2026-04-22T00:46:12Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1143",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-09-18T00:00:00Z",
+    "amount": 2924.13,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:33:25Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1127",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-20T00:00:00Z",
+    "amount": 9544.14,
+    "currency": "EUR",
+    "timestamp": "2026-02-14T04:22:24Z"
+  },
+  {
+    "senderAccount": "ACC-1147",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1160",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-17T00:00:00Z",
+    "amount": 4021.9,
+    "currency": "EUR",
+    "timestamp": "2026-01-15T23:10:20Z"
+  },
+  {
+    "senderAccount": "ACC-1093",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1092",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-22T00:00:00Z",
+    "amount": 5448.54,
+    "currency": "EUR",
+    "timestamp": "2026-03-16T08:13:50Z"
+  },
+  {
+    "senderAccount": "ACC-1160",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1077",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-18T00:00:00Z",
+    "amount": 4754.88,
+    "currency": "EUR",
+    "timestamp": "2026-04-30T07:26:35Z"
+  },
+  {
+    "senderAccount": "ACC-1189",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1175",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-08-23T00:00:00Z",
+    "amount": 2926.53,
+    "currency": "EUR",
+    "timestamp": "2026-04-13T05:10:14Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1043",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-15T00:00:00Z",
+    "amount": 7923.07,
+    "currency": "EUR",
+    "timestamp": "2026-01-28T04:15:14Z"
+  },
+  {
+    "senderAccount": "ACC-1089",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1090",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-10-16T00:00:00Z",
+    "amount": 7353.53,
+    "currency": "EUR",
+    "timestamp": "2026-03-30T21:47:05Z"
+  },
+  {
+    "senderAccount": "ACC-1123",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1019",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-24T00:00:00Z",
+    "amount": 3991.63,
+    "currency": "EUR",
+    "timestamp": "2026-03-12T02:57:50Z"
+  },
+  {
+    "senderAccount": "ACC-1180",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1197",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-10-17T00:00:00Z",
+    "amount": 2971.97,
+    "currency": "EUR",
+    "timestamp": "2026-03-02T09:15:44Z"
+  },
+  {
+    "senderAccount": "ACC-1108",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1026",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-10-16T00:00:00Z",
+    "amount": 7004.74,
+    "currency": "EUR",
+    "timestamp": "2026-05-23T21:57:21Z"
+  },
+  {
+    "senderAccount": "ACC-1145",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1172",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-21T00:00:00Z",
+    "amount": 7181.49,
+    "currency": "EUR",
+    "timestamp": "2026-05-28T01:11:36Z"
+  },
+  {
+    "senderAccount": "ACC-1161",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1184",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-10T00:00:00Z",
+    "amount": 1975.46,
+    "currency": "EUR",
+    "timestamp": "2026-05-01T08:10:41Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1035",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-21T00:00:00Z",
+    "amount": 1441.62,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:26:29Z"
+  },
+  {
+    "senderAccount": "ACC-1052",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1039",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-18T00:00:00Z",
+    "amount": 5464.39,
+    "currency": "EUR",
+    "timestamp": "2026-04-15T03:45:33Z"
+  },
+  {
+    "senderAccount": "ACC-1193",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1127",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-24T00:00:00Z",
+    "amount": 4416.3,
+    "currency": "EUR",
+    "timestamp": "2026-05-02T10:36:57Z"
+  },
+  {
+    "senderAccount": "ACC-1096",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1039",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-07-25T00:00:00Z",
+    "amount": 6481.9,
+    "currency": "EUR",
+    "timestamp": "2026-02-01T12:07:36Z"
+  },
+  {
+    "senderAccount": "ACC-1101",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1003",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-07-12T00:00:00Z",
+    "amount": 6004.64,
+    "currency": "EUR",
+    "timestamp": "2026-02-21T08:27:58Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1149",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-12-04T00:00:00Z",
+    "amount": 5414.95,
+    "currency": "EUR",
+    "timestamp": "2026-03-15T23:42:27Z"
+  },
+  {
+    "senderAccount": "ACC-1086",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1158",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-09-30T00:00:00Z",
+    "amount": 9633.01,
+    "currency": "EUR",
+    "timestamp": "2026-01-22T10:20:03Z"
+  },
+  {
+    "senderAccount": "ACC-1085",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1020",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-10-13T00:00:00Z",
+    "amount": 7743.19,
+    "currency": "EUR",
+    "timestamp": "2026-04-24T03:45:46Z"
+  },
+  {
+    "senderAccount": "ACC-1155",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1130",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-18T00:00:00Z",
+    "amount": 6281.22,
+    "currency": "EUR",
+    "timestamp": "2026-02-06T15:09:23Z"
+  },
+  {
+    "senderAccount": "ACC-1182",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1189",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-16T00:00:00Z",
+    "amount": 7331.05,
+    "currency": "EUR",
+    "timestamp": "2026-05-08T07:47:55Z"
+  },
+  {
+    "senderAccount": "ACC-1185",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1172",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-09-29T00:00:00Z",
+    "amount": 767.91,
+    "currency": "EUR",
+    "timestamp": "2026-03-19T04:04:18Z"
+  },
+  {
+    "senderAccount": "ACC-1070",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1023",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-14T00:00:00Z",
+    "amount": 7235.21,
+    "currency": "EUR",
+    "timestamp": "2026-05-08T02:36:03Z"
+  },
+  {
+    "senderAccount": "ACC-1192",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1108",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-13T00:00:00Z",
+    "amount": 2845.59,
+    "currency": "EUR",
+    "timestamp": "2026-05-21T00:23:10Z"
+  },
+  {
+    "senderAccount": "ACC-1073",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1060",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-21T00:00:00Z",
+    "amount": 6361.5,
+    "currency": "EUR",
+    "timestamp": "2026-02-28T11:27:58Z"
+  },
+  {
+    "senderAccount": "ACC-1132",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1072",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-08-12T00:00:00Z",
+    "amount": 2231.89,
+    "currency": "EUR",
+    "timestamp": "2026-01-16T07:30:49Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1060",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-11-16T00:00:00Z",
+    "amount": 2656.11,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:47:25Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1152",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-11T00:00:00Z",
+    "amount": 1315.75,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T05:44:29Z"
+  },
+  {
+    "senderAccount": "ACC-1146",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1094",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-28T00:00:00Z",
+    "amount": 7079.76,
+    "currency": "EUR",
+    "timestamp": "2026-04-01T18:16:08Z"
+  },
+  {
+    "senderAccount": "ACC-1120",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1049",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-10T00:00:00Z",
+    "amount": 3720.36,
+    "currency": "EUR",
+    "timestamp": "2026-03-13T10:15:47Z"
+  },
+  {
+    "senderAccount": "ACC-1018",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1115",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-09T00:00:00Z",
+    "amount": 6493.58,
+    "currency": "EUR",
+    "timestamp": "2026-02-03T12:38:13Z"
+  },
+  {
+    "senderAccount": "ACC-1072",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1064",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-07-30T00:00:00Z",
+    "amount": 6992.57,
+    "currency": "EUR",
+    "timestamp": "2026-05-21T12:50:35Z"
+  },
+  {
+    "senderAccount": "ACC-1085",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1081",
+    "receiverCountry": "IR",
+    "receiverLastActive": "2025-09-24T00:00:00Z",
+    "amount": 17501.77,
+    "currency": "EUR",
+    "timestamp": "2026-04-15T21:17:30Z"
+  },
+  {
+    "senderAccount": "ACC-1194",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1097",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-10-28T00:00:00Z",
+    "amount": 68443.93,
+    "currency": "EUR",
+    "timestamp": "2026-02-24T00:46:11Z"
+  },
+  {
+    "senderAccount": "ACC-1021",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1023",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-11-28T00:00:00Z",
+    "amount": 4473.15,
+    "currency": "EUR",
+    "timestamp": "2026-03-25T20:41:25Z"
+  },
+  {
+    "senderAccount": "ACC-1029",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1088",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-08-02T00:00:00Z",
+    "amount": 3918.73,
+    "currency": "EUR",
+    "timestamp": "2026-03-25T11:32:33Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1181",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-18T00:00:00Z",
+    "amount": 791.01,
+    "currency": "EUR",
+    "timestamp": "2026-01-31T18:05:44Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1109",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-12-03T00:00:00Z",
+    "amount": 318.21,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:57:25Z"
+  },
+  {
+    "senderAccount": "ACC-1096",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1164",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-05T00:00:00Z",
+    "amount": 6640.22,
+    "currency": "EUR",
+    "timestamp": "2026-06-03T17:24:43Z"
+  },
+  {
+    "senderAccount": "ACC-1096",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1115",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-12-08T00:00:00Z",
+    "amount": 3252.66,
+    "currency": "EUR",
+    "timestamp": "2026-01-15T15:55:52Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1171",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-10T00:00:00Z",
+    "amount": 2708.88,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:13:29Z"
+  },
+  {
+    "senderAccount": "ACC-1176",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1077",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-15T00:00:00Z",
+    "amount": 3975.67,
+    "currency": "EUR",
+    "timestamp": "2026-05-16T20:59:43Z"
+  },
+  {
+    "senderAccount": "ACC-1141",
+    "senderCountry": "US",
+    "receiverAccount": "DORM-9004",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2022-08-18T00:00:00Z",
+    "amount": 8590.57,
+    "currency": "EUR",
+    "timestamp": "2026-02-26T17:27:19Z"
+  },
+  {
+    "senderAccount": "ACC-1175",
+    "senderCountry": "IR",
+    "receiverAccount": "ACC-1013",
+    "receiverCountry": "RU",
+    "receiverLastActive": "2025-10-15T00:00:00Z",
+    "amount": 62777.14,
+    "currency": "EUR",
+    "timestamp": "2026-01-30T11:05:56Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1141",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-15T00:00:00Z",
+    "amount": 400.4,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:41:25Z"
+  },
+  {
+    "senderAccount": "ACC-1172",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1079",
+    "receiverCountry": "IR",
+    "receiverLastActive": "2025-12-20T00:00:00Z",
+    "amount": 6498.64,
+    "currency": "EUR",
+    "timestamp": "2026-02-13T14:54:04Z"
+  },
+  {
+    "senderAccount": "ACC-1045",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1027",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-26T00:00:00Z",
+    "amount": 4235.33,
+    "currency": "EUR",
+    "timestamp": "2026-01-19T16:51:18Z"
+  },
+  {
+    "senderAccount": "ACC-1174",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1132",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-08-12T00:00:00Z",
+    "amount": 5136.36,
+    "currency": "EUR",
+    "timestamp": "2026-03-08T21:33:18Z"
+  },
+  {
+    "senderAccount": "ACC-1178",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1169",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-12-10T00:00:00Z",
+    "amount": 2511.18,
+    "currency": "EUR",
+    "timestamp": "2026-03-18T02:39:23Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1057",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-26T00:00:00Z",
+    "amount": 1806.1,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:20:29Z"
+  },
+  {
+    "senderAccount": "ACC-1156",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1166",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-07-24T00:00:00Z",
+    "amount": 5998.74,
+    "currency": "EUR",
+    "timestamp": "2026-02-01T20:50:18Z"
+  },
+  {
+    "senderAccount": "ACC-1025",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1066",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-05T00:00:00Z",
+    "amount": 5516.93,
+    "currency": "EUR",
+    "timestamp": "2026-02-13T02:36:00Z"
+  },
+  {
+    "senderAccount": "ACC-1062",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1022",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-04T00:00:00Z",
+    "amount": 49889.91,
+    "currency": "EUR",
+    "timestamp": "2026-02-24T03:53:59Z"
+  },
+  {
+    "senderAccount": "ACC-1076",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1007",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-01T00:00:00Z",
+    "amount": 3029.99,
+    "currency": "EUR",
+    "timestamp": "2026-01-09T22:20:00Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1102",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-07T00:00:00Z",
+    "amount": 9884.85,
+    "currency": "EUR",
+    "timestamp": "2026-02-11T01:22:24Z"
+  },
+  {
+    "senderAccount": "ACC-1052",
+    "senderCountry": "NG",
+    "receiverAccount": "ACC-1107",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-06T00:00:00Z",
+    "amount": 880.87,
+    "currency": "EUR",
+    "timestamp": "2026-03-17T15:05:36Z"
+  },
+  {
+    "senderAccount": "ACC-1023",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1058",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-12-26T00:00:00Z",
+    "amount": 7996.6,
+    "currency": "EUR",
+    "timestamp": "2026-05-11T22:27:29Z"
+  },
+  {
+    "senderAccount": "ACC-1113",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1018",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-29T00:00:00Z",
+    "amount": 2236.38,
+    "currency": "EUR",
+    "timestamp": "2026-01-16T16:30:39Z"
+  },
+  {
+    "senderAccount": "ACC-1037",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1062",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-11-15T00:00:00Z",
+    "amount": 1401.37,
+    "currency": "EUR",
+    "timestamp": "2026-04-14T03:24:52Z"
+  },
+  {
+    "senderAccount": "ACC-1037",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1035",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-07-06T00:00:00Z",
+    "amount": 6657.33,
+    "currency": "EUR",
+    "timestamp": "2026-01-08T10:30:20Z"
+  },
+  {
+    "senderAccount": "ACC-1069",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1042",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-10-17T00:00:00Z",
+    "amount": 5985.15,
+    "currency": "EUR",
+    "timestamp": "2026-02-19T21:34:02Z"
+  },
+  {
+    "senderAccount": "ACC-1042",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1184",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-01T00:00:00Z",
+    "amount": 7758.23,
+    "currency": "EUR",
+    "timestamp": "2026-03-26T23:42:21Z"
+  },
+  {
+    "senderAccount": "ACC-1104",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1147",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-13T00:00:00Z",
+    "amount": 3627.3,
+    "currency": "EUR",
+    "timestamp": "2026-01-15T07:42:11Z"
+  },
+  {
+    "senderAccount": "ACC-1125",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1135",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-22T00:00:00Z",
+    "amount": 4716.69,
+    "currency": "EUR",
+    "timestamp": "2026-05-05T02:27:42Z"
+  },
+  {
+    "senderAccount": "ACC-1078",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1127",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-05T00:00:00Z",
+    "amount": 7735.16,
+    "currency": "EUR",
+    "timestamp": "2026-01-05T12:00:33Z"
+  },
+  {
+    "senderAccount": "ACC-1086",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1116",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-29T00:00:00Z",
+    "amount": 9321.99,
+    "currency": "EUR",
+    "timestamp": "2026-01-22T00:20:03Z"
+  },
+  {
+    "senderAccount": "ACC-1103",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1093",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-12-24T00:00:00Z",
+    "amount": 1185.1,
+    "currency": "EUR",
+    "timestamp": "2026-04-10T15:09:14Z"
+  },
+  {
+    "senderAccount": "ACC-1109",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1131",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-11-14T00:00:00Z",
+    "amount": 7854.4,
+    "currency": "EUR",
+    "timestamp": "2026-03-05T16:14:56Z"
+  },
+  {
+    "senderAccount": "ACC-1016",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1183",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-10T00:00:00Z",
+    "amount": 398.26,
+    "currency": "EUR",
+    "timestamp": "2026-05-31T17:18:33Z"
+  },
+  {
+    "senderAccount": "ACC-1031",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1150",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-10-12T00:00:00Z",
+    "amount": 6339.06,
+    "currency": "EUR",
+    "timestamp": "2026-05-22T18:05:21Z"
+  },
+  {
+    "senderAccount": "ACC-1160",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1182",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-20T00:00:00Z",
+    "amount": 705.3,
+    "currency": "EUR",
+    "timestamp": "2026-04-08T07:03:26Z"
+  },
+  {
+    "senderAccount": "ACC-1189",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1188",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-15T00:00:00Z",
+    "amount": 10000.0,
+    "currency": "EUR",
+    "timestamp": "2026-05-13T05:21:19Z"
+  },
+  {
+    "senderAccount": "ACC-1011",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1186",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-10-15T00:00:00Z",
+    "amount": 3691.44,
+    "currency": "EUR",
+    "timestamp": "2026-06-02T02:06:08Z"
+  },
+  {
+    "senderAccount": "ACC-1177",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1067",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-10-21T00:00:00Z",
+    "amount": 4486.79,
+    "currency": "EUR",
+    "timestamp": "2026-04-29T11:09:46Z"
+  },
+  {
+    "senderAccount": "ACC-1003",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1092",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-08-08T00:00:00Z",
+    "amount": 3395.87,
+    "currency": "EUR",
+    "timestamp": "2026-03-03T10:52:10Z"
+  },
+  {
+    "senderAccount": "ACC-1015",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1196",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-22T00:00:00Z",
+    "amount": 7310.18,
+    "currency": "EUR",
+    "timestamp": "2026-01-18T08:55:01Z"
+  },
+  {
+    "senderAccount": "ACC-1035",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1039",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-08-24T00:00:00Z",
+    "amount": 6178.45,
+    "currency": "EUR",
+    "timestamp": "2026-01-15T23:36:55Z"
+  },
+  {
+    "senderAccount": "ACC-1122",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1082",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-08T00:00:00Z",
+    "amount": 6042.37,
+    "currency": "EUR",
+    "timestamp": "2026-02-18T03:58:59Z"
+  },
+  {
+    "senderAccount": "ACC-1177",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1068",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-10-13T00:00:00Z",
+    "amount": 7376.22,
+    "currency": "EUR",
+    "timestamp": "2026-01-06T14:55:53Z"
+  },
+  {
+    "senderAccount": "ACC-1089",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1006",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-01T00:00:00Z",
+    "amount": 3120.02,
+    "currency": "EUR",
+    "timestamp": "2026-03-22T13:33:35Z"
+  },
+  {
+    "senderAccount": "ACC-1106",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1087",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-10-20T00:00:00Z",
+    "amount": 5822.11,
+    "currency": "EUR",
+    "timestamp": "2026-06-02T23:01:45Z"
+  },
+  {
+    "senderAccount": "ACC-1173",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1024",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-12-16T00:00:00Z",
+    "amount": 7940.27,
+    "currency": "EUR",
+    "timestamp": "2026-01-27T07:53:24Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1040",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-09-14T00:00:00Z",
+    "amount": 9647.31,
+    "currency": "EUR",
+    "timestamp": "2026-01-28T18:43:28Z"
+  },
+  {
+    "senderAccount": "ACC-1103",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1178",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-05T00:00:00Z",
+    "amount": 25000.0,
+    "currency": "EUR",
+    "timestamp": "2026-03-05T09:51:11Z"
+  },
+  {
+    "senderAccount": "ACC-1197",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1160",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-08-05T00:00:00Z",
+    "amount": 3618.8,
+    "currency": "EUR",
+    "timestamp": "2026-04-06T22:45:08Z"
+  },
+  {
+    "senderAccount": "ACC-1165",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1173",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-09-12T00:00:00Z",
+    "amount": 892.26,
+    "currency": "EUR",
+    "timestamp": "2026-05-06T14:02:37Z"
+  },
+  {
+    "senderAccount": "ACC-1113",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1071",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-28T00:00:00Z",
+    "amount": 7753.99,
+    "currency": "EUR",
+    "timestamp": "2026-02-05T05:48:02Z"
+  },
+  {
+    "senderAccount": "ACC-1069",
+    "senderCountry": "IR",
+    "receiverAccount": "ACC-1111",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-11T00:00:00Z",
+    "amount": 16063.78,
+    "currency": "EUR",
+    "timestamp": "2026-04-05T07:15:20Z"
+  },
+  {
+    "senderAccount": "ACC-1107",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1125",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-05T00:00:00Z",
+    "amount": 59511.9,
+    "currency": "EUR",
+    "timestamp": "2026-01-21T11:50:48Z"
+  },
+  {
+    "senderAccount": "ACC-1120",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1006",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-28T00:00:00Z",
+    "amount": 1809.87,
+    "currency": "EUR",
+    "timestamp": "2026-05-01T07:17:51Z"
+  },
+  {
+    "senderAccount": "ACC-1121",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1115",
+    "receiverCountry": "BY",
+    "receiverLastActive": "2025-10-22T00:00:00Z",
+    "amount": 19262.44,
+    "currency": "EUR",
+    "timestamp": "2026-02-20T07:55:12Z"
+  },
+  {
+    "senderAccount": "ACC-1077",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1054",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-09T00:00:00Z",
+    "amount": 1003.88,
+    "currency": "EUR",
+    "timestamp": "2026-05-30T00:06:28Z"
+  },
+  {
+    "senderAccount": "ACC-1199",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1092",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-05T00:00:00Z",
+    "amount": 7566.05,
+    "currency": "EUR",
+    "timestamp": "2026-04-10T15:51:44Z"
+  },
+  {
+    "senderAccount": "ACC-1056",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1056",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-07-29T00:00:00Z",
+    "amount": 3020.32,
+    "currency": "EUR",
+    "timestamp": "2026-01-26T22:28:32Z"
+  },
+  {
+    "senderAccount": "ACC-1131",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1037",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-11-05T00:00:00Z",
+    "amount": 6542.79,
+    "currency": "EUR",
+    "timestamp": "2026-06-11T08:57:30Z"
+  },
+  {
+    "senderAccount": "ACC-1004",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1061",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-08T00:00:00Z",
+    "amount": 4802.39,
+    "currency": "EUR",
+    "timestamp": "2026-02-10T00:24:35Z"
+  },
+  {
+    "senderAccount": "ACC-1019",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1080",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-07-21T00:00:00Z",
+    "amount": 3370.67,
+    "currency": "EUR",
+    "timestamp": "2026-04-22T19:13:55Z"
+  },
+  {
+    "senderAccount": "ACC-1046",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1196",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-12-17T00:00:00Z",
+    "amount": 6659.56,
+    "currency": "EUR",
+    "timestamp": "2026-01-26T01:20:13Z"
+  },
+  {
+    "senderAccount": "ACC-1170",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1135",
+    "receiverCountry": "NG",
+    "receiverLastActive": "2025-09-09T00:00:00Z",
+    "amount": 15509.98,
+    "currency": "EUR",
+    "timestamp": "2026-04-19T12:46:50Z"
+  },
+  {
+    "senderAccount": "ACC-1183",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1149",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-17T00:00:00Z",
+    "amount": 3654.79,
+    "currency": "EUR",
+    "timestamp": "2026-04-05T22:06:12Z"
+  },
+  {
+    "senderAccount": "ACC-1117",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1165",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-06T00:00:00Z",
+    "amount": 6336.6,
+    "currency": "EUR",
+    "timestamp": "2026-02-19T22:56:28Z"
+  },
+  {
+    "senderAccount": "ACC-1196",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1195",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-04T00:00:00Z",
+    "amount": 9852.89,
+    "currency": "EUR",
+    "timestamp": "2026-05-06T04:05:54Z"
+  },
+  {
+    "senderAccount": "ACC-1115",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1125",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-09-12T00:00:00Z",
+    "amount": 1526.62,
+    "currency": "EUR",
+    "timestamp": "2026-02-14T07:12:07Z"
+  },
+  {
+    "senderAccount": "ACC-1027",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1060",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-05T00:00:00Z",
+    "amount": 2397.08,
+    "currency": "EUR",
+    "timestamp": "2026-03-16T01:17:11Z"
+  },
+  {
+    "senderAccount": "ACC-1063",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1168",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-12-20T00:00:00Z",
+    "amount": 4527.6,
+    "currency": "EUR",
+    "timestamp": "2026-05-10T01:41:52Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1137",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-24T00:00:00Z",
+    "amount": 434.49,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T09:51:25Z"
+  },
+  {
+    "senderAccount": "ACC-1037",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1065",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-17T00:00:00Z",
+    "amount": 649.06,
+    "currency": "EUR",
+    "timestamp": "2026-02-08T07:21:11Z"
+  },
+  {
+    "senderAccount": "ACC-1057",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1163",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-02T00:00:00Z",
+    "amount": 849.33,
+    "currency": "EUR",
+    "timestamp": "2026-02-15T05:05:49Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1104",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-07T00:00:00Z",
+    "amount": 2011.05,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:20:29Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1041",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-23T00:00:00Z",
+    "amount": 9942.14,
+    "currency": "EUR",
+    "timestamp": "2026-02-12T03:22:24Z"
+  },
+  {
+    "senderAccount": "ACC-1184",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1070",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-06T00:00:00Z",
+    "amount": 5408.56,
+    "currency": "EUR",
+    "timestamp": "2026-04-15T00:43:13Z"
+  },
+  {
+    "senderAccount": "ACC-1059",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1073",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-12-13T00:00:00Z",
+    "amount": 5514.71,
+    "currency": "EUR",
+    "timestamp": "2026-05-18T06:39:10Z"
+  },
+  {
+    "senderAccount": "ACC-1160",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1139",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-30T00:00:00Z",
+    "amount": 6447.27,
+    "currency": "EUR",
+    "timestamp": "2026-02-26T05:58:03Z"
+  },
+  {
+    "senderAccount": "ACC-1144",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1010",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-20T00:00:00Z",
+    "amount": 6179.63,
+    "currency": "EUR",
+    "timestamp": "2026-06-10T05:52:47Z"
+  },
+  {
+    "senderAccount": "ACC-1166",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1152",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-07T00:00:00Z",
+    "amount": 1646.77,
+    "currency": "EUR",
+    "timestamp": "2026-01-27T10:23:09Z"
+  },
+  {
+    "senderAccount": "ACC-1097",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1101",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-11-24T00:00:00Z",
+    "amount": 2359.1,
+    "currency": "EUR",
+    "timestamp": "2026-06-08T21:54:55Z"
+  },
+  {
+    "senderAccount": "ACC-1146",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1179",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-15T00:00:00Z",
+    "amount": 1253.88,
+    "currency": "EUR",
+    "timestamp": "2026-01-22T08:09:00Z"
+  },
+  {
+    "senderAccount": "ACC-1144",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1051",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-13T00:00:00Z",
+    "amount": 263.98,
+    "currency": "EUR",
+    "timestamp": "2026-04-25T23:58:40Z"
+  },
+  {
+    "senderAccount": "ACC-1032",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1191",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-12-01T00:00:00Z",
+    "amount": 6182.87,
+    "currency": "EUR",
+    "timestamp": "2026-06-01T16:18:05Z"
+  },
+  {
+    "senderAccount": "ACC-1017",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1199",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-29T00:00:00Z",
+    "amount": 23956.05,
+    "currency": "EUR",
+    "timestamp": "2026-05-07T13:23:48Z"
+  },
+  {
+    "senderAccount": "ACC-1196",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1157",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-12-24T00:00:00Z",
+    "amount": 5091.28,
+    "currency": "EUR",
+    "timestamp": "2026-04-26T15:44:15Z"
+  },
+  {
+    "senderAccount": "ACC-1171",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1097",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-11-15T00:00:00Z",
+    "amount": 44129.01,
+    "currency": "EUR",
+    "timestamp": "2026-03-07T07:43:18Z"
+  },
+  {
+    "senderAccount": "ACC-1167",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1032",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-10T00:00:00Z",
+    "amount": 6636.43,
+    "currency": "EUR",
+    "timestamp": "2026-05-17T04:53:04Z"
+  },
+  {
+    "senderAccount": "ACC-1086",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1137",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-26T00:00:00Z",
+    "amount": 9259.1,
+    "currency": "EUR",
+    "timestamp": "2026-01-20T23:20:03Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1179",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-22T00:00:00Z",
+    "amount": 2589.92,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:51:25Z"
+  },
+  {
+    "senderAccount": "ACC-1189",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1188",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-10-16T00:00:00Z",
+    "amount": 10000.0,
+    "currency": "EUR",
+    "timestamp": "2026-05-15T05:21:19Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1027",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-11-22T00:00:00Z",
+    "amount": 889.81,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:31:25Z"
+  },
+  {
+    "senderAccount": "ACC-1044",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1010",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-08-19T00:00:00Z",
+    "amount": 4205.85,
+    "currency": "EUR",
+    "timestamp": "2026-02-18T02:34:09Z"
+  },
+  {
+    "senderAccount": "ACC-1157",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1050",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-21T00:00:00Z",
+    "amount": 2691.13,
+    "currency": "EUR",
+    "timestamp": "2026-03-30T21:47:23Z"
+  },
+  {
+    "senderAccount": "ACC-1177",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1145",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-07-09T00:00:00Z",
+    "amount": 7408.4,
+    "currency": "EUR",
+    "timestamp": "2026-04-03T07:59:31Z"
+  },
+  {
+    "senderAccount": "ACC-1094",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1095",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-08-18T00:00:00Z",
+    "amount": 2967.25,
+    "currency": "EUR",
+    "timestamp": "2026-03-28T04:54:25Z"
+  },
+  {
+    "senderAccount": "ACC-1156",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1073",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-30T00:00:00Z",
+    "amount": 1129.04,
+    "currency": "EUR",
+    "timestamp": "2026-05-15T18:11:03Z"
+  },
+  {
+    "senderAccount": "ACC-1000",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1198",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-07-22T00:00:00Z",
+    "amount": 5329.94,
+    "currency": "EUR",
+    "timestamp": "2026-05-23T06:44:29Z"
+  },
+  {
+    "senderAccount": "ACC-1147",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1129",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-04T00:00:00Z",
+    "amount": 2833.41,
+    "currency": "EUR",
+    "timestamp": "2026-02-11T07:26:04Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1137",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-04T00:00:00Z",
+    "amount": 9521.33,
+    "currency": "EUR",
+    "timestamp": "2026-01-28T02:43:28Z"
+  },
+  {
+    "senderAccount": "ACC-1133",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1124",
+    "receiverCountry": "RU",
+    "receiverLastActive": "2025-10-19T00:00:00Z",
+    "amount": 6245.09,
+    "currency": "EUR",
+    "timestamp": "2026-05-02T16:51:33Z"
+  },
+  {
+    "senderAccount": "ACC-1192",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1034",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-18T00:00:00Z",
+    "amount": 4528.17,
+    "currency": "EUR",
+    "timestamp": "2026-05-05T13:57:41Z"
+  },
+  {
+    "senderAccount": "ACC-1085",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1141",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-10T00:00:00Z",
+    "amount": 6963.33,
+    "currency": "EUR",
+    "timestamp": "2026-05-29T03:14:39Z"
+  },
+  {
+    "senderAccount": "ACC-1084",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1077",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-17T00:00:00Z",
+    "amount": 2908.44,
+    "currency": "EUR",
+    "timestamp": "2026-04-24T02:27:49Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1124",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-08-17T00:00:00Z",
+    "amount": 2320.92,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:04:29Z"
+  },
+  {
+    "senderAccount": "ACC-1131",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1147",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-31T00:00:00Z",
+    "amount": 4937.74,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T23:30:48Z"
+  },
+  {
+    "senderAccount": "ACC-1105",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1086",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-07T00:00:00Z",
+    "amount": 2534.76,
+    "currency": "EUR",
+    "timestamp": "2026-06-10T16:03:11Z"
+  },
+  {
+    "senderAccount": "ACC-1016",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1162",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-07-18T00:00:00Z",
+    "amount": 3295.95,
+    "currency": "EUR",
+    "timestamp": "2026-06-09T23:26:39Z"
+  },
+  {
+    "senderAccount": "ACC-1063",
+    "senderCountry": "BY",
+    "receiverAccount": "ACC-1030",
+    "receiverCountry": "RU",
+    "receiverLastActive": "2025-07-26T00:00:00Z",
+    "amount": 83853.07,
+    "currency": "EUR",
+    "timestamp": "2026-04-19T08:48:31Z"
+  },
+  {
+    "senderAccount": "ACC-1151",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1188",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-27T00:00:00Z",
+    "amount": 422.73,
+    "currency": "EUR",
+    "timestamp": "2026-02-04T00:10:47Z"
+  },
+  {
+    "senderAccount": "ACC-1103",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1178",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-31T00:00:00Z",
+    "amount": 25000.0,
+    "currency": "EUR",
+    "timestamp": "2026-03-03T09:51:11Z"
+  },
+  {
+    "senderAccount": "ACC-1137",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1137",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-11T00:00:00Z",
+    "amount": 4114.87,
+    "currency": "EUR",
+    "timestamp": "2026-04-30T14:59:14Z"
+  },
+  {
+    "senderAccount": "ACC-1111",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1045",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-07-27T00:00:00Z",
+    "amount": 66574.14,
+    "currency": "EUR",
+    "timestamp": "2026-05-23T11:44:02Z"
+  },
+  {
+    "senderAccount": "ACC-1196",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1111",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-31T00:00:00Z",
+    "amount": 9915.36,
+    "currency": "EUR",
+    "timestamp": "2026-05-05T11:05:54Z"
+  },
+  {
+    "senderAccount": "ACC-1055",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1149",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-01T00:00:00Z",
+    "amount": 7064.6,
+    "currency": "EUR",
+    "timestamp": "2026-03-10T12:36:37Z"
+  },
+  {
+    "senderAccount": "ACC-1185",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1005",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-06T00:00:00Z",
+    "amount": 4647.57,
+    "currency": "EUR",
+    "timestamp": "2026-03-18T21:15:17Z"
+  },
+  {
+    "senderAccount": "ACC-1096",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1096",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-08-15T00:00:00Z",
+    "amount": 1107.27,
+    "currency": "EUR",
+    "timestamp": "2026-01-16T13:59:31Z"
+  },
+  {
+    "senderAccount": "ACC-1026",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1026",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-25T00:00:00Z",
+    "amount": 6199.01,
+    "currency": "EUR",
+    "timestamp": "2026-03-02T20:19:25Z"
+  },
+  {
+    "senderAccount": "ACC-1174",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1193",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-08T00:00:00Z",
+    "amount": 4248.98,
+    "currency": "EUR",
+    "timestamp": "2026-04-26T16:41:47Z"
+  },
+  {
+    "senderAccount": "ACC-1155",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1167",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-01T00:00:00Z",
+    "amount": 20000.0,
+    "currency": "EUR",
+    "timestamp": "2026-03-10T13:47:24Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1080",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-11-09T00:00:00Z",
+    "amount": 2042.21,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T05:49:29Z"
+  },
+  {
+    "senderAccount": "ACC-1178",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1154",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-08-12T00:00:00Z",
+    "amount": 2606.84,
+    "currency": "EUR",
+    "timestamp": "2026-05-17T15:47:57Z"
+  },
+  {
+    "senderAccount": "ACC-1078",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1152",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-09-10T00:00:00Z",
+    "amount": 1038.61,
+    "currency": "EUR",
+    "timestamp": "2026-05-26T10:23:45Z"
+  },
+  {
+    "senderAccount": "ACC-1042",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1013",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-11-02T00:00:00Z",
+    "amount": 3462.39,
+    "currency": "EUR",
+    "timestamp": "2026-03-18T23:05:08Z"
+  },
+  {
+    "senderAccount": "ACC-1001",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1180",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-12-15T00:00:00Z",
+    "amount": 4639.92,
+    "currency": "EUR",
+    "timestamp": "2026-02-11T17:01:20Z"
+  },
+  {
+    "senderAccount": "ACC-1062",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1178",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-12-11T00:00:00Z",
+    "amount": 5247.2,
+    "currency": "EUR",
+    "timestamp": "2026-02-13T20:34:15Z"
+  },
+  {
+    "senderAccount": "ACC-1050",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1019",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-12-05T00:00:00Z",
+    "amount": 58803.81,
+    "currency": "EUR",
+    "timestamp": "2026-04-25T23:22:33Z"
+  },
+  {
+    "senderAccount": "ACC-1035",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1011",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-07T00:00:00Z",
+    "amount": 1916.66,
+    "currency": "EUR",
+    "timestamp": "2026-01-08T05:25:15Z"
+  },
+  {
+    "senderAccount": "ACC-1021",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1186",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-11-15T00:00:00Z",
+    "amount": 4386.52,
+    "currency": "EUR",
+    "timestamp": "2026-03-24T10:18:42Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1085",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-09-17T00:00:00Z",
+    "amount": 2426.48,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:35:25Z"
+  },
+  {
+    "senderAccount": "ACC-1142",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1094",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-13T00:00:00Z",
+    "amount": 6768.98,
+    "currency": "EUR",
+    "timestamp": "2026-01-23T07:24:15Z"
+  },
+  {
+    "senderAccount": "ACC-1081",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1160",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-15T00:00:00Z",
+    "amount": 335.4,
+    "currency": "EUR",
+    "timestamp": "2026-05-20T13:27:57Z"
+  },
+  {
+    "senderAccount": "ACC-1022",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1111",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-10-13T00:00:00Z",
+    "amount": 5345.33,
+    "currency": "EUR",
+    "timestamp": "2026-01-23T12:32:11Z"
+  },
+  {
+    "senderAccount": "ACC-1112",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1017",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-22T00:00:00Z",
+    "amount": 4751.79,
+    "currency": "EUR",
+    "timestamp": "2026-04-02T01:19:50Z"
+  },
+  {
+    "senderAccount": "ACC-1192",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1197",
+    "receiverCountry": "IR",
+    "receiverLastActive": "2025-07-06T00:00:00Z",
+    "amount": 13189.96,
+    "currency": "EUR",
+    "timestamp": "2026-01-21T16:43:58Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1013",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-14T00:00:00Z",
+    "amount": 2505.11,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:56:25Z"
+  },
+  {
+    "senderAccount": "ACC-1155",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1167",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-15T00:00:00Z",
+    "amount": 20000.0,
+    "currency": "EUR",
+    "timestamp": "2026-03-08T13:47:24Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1197",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-25T00:00:00Z",
+    "amount": 568.59,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:29:25Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1166",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-07-21T00:00:00Z",
+    "amount": 290.77,
+    "currency": "EUR",
+    "timestamp": "2026-02-10T22:26:17Z"
+  },
+  {
+    "senderAccount": "ACC-1189",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1188",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-14T00:00:00Z",
+    "amount": 10000.0,
+    "currency": "EUR",
+    "timestamp": "2026-05-11T05:21:19Z"
+  },
+  {
+    "senderAccount": "ACC-1055",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1119",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-29T00:00:00Z",
+    "amount": 52507.72,
+    "currency": "EUR",
+    "timestamp": "2026-05-16T19:44:34Z"
+  },
+  {
+    "senderAccount": "ACC-1104",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1026",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-08-01T00:00:00Z",
+    "amount": 4804.45,
+    "currency": "EUR",
+    "timestamp": "2026-01-06T02:23:21Z"
+  },
+  {
+    "senderAccount": "ACC-1008",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1115",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-09-10T00:00:00Z",
+    "amount": 6929.06,
+    "currency": "EUR",
+    "timestamp": "2026-02-21T00:48:27Z"
+  },
+  {
+    "senderAccount": "ACC-1172",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1068",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-09-02T00:00:00Z",
+    "amount": 4175.76,
+    "currency": "EUR",
+    "timestamp": "2026-04-22T21:30:20Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1129",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-17T00:00:00Z",
+    "amount": 2981.46,
+    "currency": "EUR",
+    "timestamp": "2026-01-15T09:45:12Z"
+  },
+  {
+    "senderAccount": "ACC-1111",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1025",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-09-09T00:00:00Z",
+    "amount": 1372.6,
+    "currency": "EUR",
+    "timestamp": "2026-05-28T15:34:46Z"
+  },
+  {
+    "senderAccount": "ACC-1139",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1174",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-12-13T00:00:00Z",
+    "amount": 182.68,
+    "currency": "EUR",
+    "timestamp": "2026-02-03T13:10:04Z"
+  },
+  {
+    "senderAccount": "ACC-1096",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1172",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-11-13T00:00:00Z",
+    "amount": 6446.97,
+    "currency": "EUR",
+    "timestamp": "2026-04-28T11:21:43Z"
+  },
+  {
+    "senderAccount": "ACC-1186",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1118",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-07-07T00:00:00Z",
+    "amount": 599.81,
+    "currency": "EUR",
+    "timestamp": "2026-05-18T13:13:47Z"
+  },
+  {
+    "senderAccount": "ACC-1029",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1058",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-28T00:00:00Z",
+    "amount": 1994.18,
+    "currency": "EUR",
+    "timestamp": "2026-05-24T20:17:05Z"
+  },
+  {
+    "senderAccount": "ACC-1017",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1060",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-03T00:00:00Z",
+    "amount": 5986.79,
+    "currency": "EUR",
+    "timestamp": "2026-05-03T13:25:24Z"
+  },
+  {
+    "senderAccount": "ACC-1067",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1160",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-09-14T00:00:00Z",
+    "amount": 962.47,
+    "currency": "EUR",
+    "timestamp": "2026-04-25T12:37:07Z"
+  },
+  {
+    "senderAccount": "ACC-1105",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1157",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-06T00:00:00Z",
+    "amount": 1163.1,
+    "currency": "EUR",
+    "timestamp": "2026-05-14T07:37:48Z"
+  },
+  {
+    "senderAccount": "ACC-1011",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1181",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-04T00:00:00Z",
+    "amount": 5433.26,
+    "currency": "EUR",
+    "timestamp": "2026-01-23T08:20:10Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1067",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-01T00:00:00Z",
+    "amount": 1360.23,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T09:18:25Z"
+  },
+  {
+    "senderAccount": "ACC-1047",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1191",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-08T00:00:00Z",
+    "amount": 4842.12,
+    "currency": "EUR",
+    "timestamp": "2026-02-26T05:00:49Z"
+  },
+  {
+    "senderAccount": "ACC-1029",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1103",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-26T00:00:00Z",
+    "amount": 3707.77,
+    "currency": "EUR",
+    "timestamp": "2026-01-05T01:11:54Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1084",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-01T00:00:00Z",
+    "amount": 907.58,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:10:29Z"
+  },
+  {
+    "senderAccount": "ACC-1016",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1079",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-08-19T00:00:00Z",
+    "amount": 3315.82,
+    "currency": "EUR",
+    "timestamp": "2026-03-19T07:33:35Z"
+  },
+  {
+    "senderAccount": "ACC-1088",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1102",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-04T00:00:00Z",
+    "amount": 2586.97,
+    "currency": "EUR",
+    "timestamp": "2026-01-26T09:24:51Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1192",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-11-19T00:00:00Z",
+    "amount": 1278.6,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:17:29Z"
+  },
+  {
+    "senderAccount": "ACC-1166",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1196",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-09-07T00:00:00Z",
+    "amount": 7110.32,
+    "currency": "EUR",
+    "timestamp": "2026-04-18T01:24:30Z"
+  },
+  {
+    "senderAccount": "ACC-1087",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1139",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-07-10T00:00:00Z",
+    "amount": 5164.31,
+    "currency": "EUR",
+    "timestamp": "2026-03-10T19:05:49Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1000",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-08-16T00:00:00Z",
+    "amount": 2091.89,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:42:25Z"
+  },
+  {
+    "senderAccount": "ACC-1194",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1180",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-11T00:00:00Z",
+    "amount": 201.08,
+    "currency": "EUR",
+    "timestamp": "2026-04-02T02:12:41Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1159",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-12-06T00:00:00Z",
+    "amount": 312.46,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:22:25Z"
+  },
+  {
+    "senderAccount": "ACC-1148",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1039",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-07-30T00:00:00Z",
+    "amount": 2734.08,
+    "currency": "EUR",
+    "timestamp": "2026-02-03T05:51:09Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1135",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-23T00:00:00Z",
+    "amount": 332.32,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T05:34:29Z"
+  },
+  {
+    "senderAccount": "ACC-1094",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1080",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2025-11-24T00:00:00Z",
+    "amount": 178.95,
+    "currency": "EUR",
+    "timestamp": "2026-03-22T09:03:15Z"
+  },
+  {
+    "senderAccount": "ACC-1146",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1166",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-23T00:00:00Z",
+    "amount": 7663.89,
+    "currency": "EUR",
+    "timestamp": "2026-02-06T13:15:34Z"
+  },
+  {
+    "senderAccount": "ACC-1085",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1062",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-12T00:00:00Z",
+    "amount": 1696.9,
+    "currency": "EUR",
+    "timestamp": "2026-01-25T10:50:52Z"
+  },
+  {
+    "senderAccount": "ACC-1017",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1120",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-27T00:00:00Z",
+    "amount": 6138.33,
+    "currency": "EUR",
+    "timestamp": "2026-01-07T03:53:42Z"
+  },
+  {
+    "senderAccount": "ACC-1089",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1001",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-20T00:00:00Z",
+    "amount": 603.2,
+    "currency": "EUR",
+    "timestamp": "2026-02-05T05:24:40Z"
+  },
+  {
+    "senderAccount": "ACC-1017",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1088",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-08-05T00:00:00Z",
+    "amount": 5894.74,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T19:43:41Z"
+  },
+  {
+    "senderAccount": "ACC-1135",
+    "senderCountry": "FR",
+    "receiverAccount": "DORM-9017",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2022-01-13T00:00:00Z",
+    "amount": 20881.08,
+    "currency": "EUR",
+    "timestamp": "2026-03-08T18:01:32Z"
+  },
+  {
+    "senderAccount": "ACC-1196",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1129",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-11-22T00:00:00Z",
+    "amount": 9480.44,
+    "currency": "EUR",
+    "timestamp": "2026-05-07T03:05:54Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1171",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-09-05T00:00:00Z",
+    "amount": 1016.91,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:21:25Z"
+  },
+  {
+    "senderAccount": "ACC-1022",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1080",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-09-19T00:00:00Z",
+    "amount": 6926.04,
+    "currency": "EUR",
+    "timestamp": "2026-02-19T00:15:50Z"
+  },
+  {
+    "senderAccount": "ACC-1048",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1185",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-09-15T00:00:00Z",
+    "amount": 4938.64,
+    "currency": "EUR",
+    "timestamp": "2026-05-29T15:26:29Z"
+  },
+  {
+    "senderAccount": "ACC-1189",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1188",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-10-09T00:00:00Z",
+    "amount": 10000.0,
+    "currency": "EUR",
+    "timestamp": "2026-05-17T05:21:19Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1001",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-23T00:00:00Z",
+    "amount": 270.73,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:14:29Z"
+  },
+  {
+    "senderAccount": "ACC-1072",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1199",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-20T00:00:00Z",
+    "amount": 6544.29,
+    "currency": "EUR",
+    "timestamp": "2026-03-16T03:39:16Z"
+  },
+  {
+    "senderAccount": "ACC-1013",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1039",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-12-11T00:00:00Z",
+    "amount": 2213.22,
+    "currency": "EUR",
+    "timestamp": "2026-01-31T13:34:59Z"
+  },
+  {
+    "senderAccount": "ACC-1134",
+    "senderCountry": "DE",
+    "receiverAccount": "DORM-9003",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2023-03-05T00:00:00Z",
+    "amount": 12961.91,
+    "currency": "EUR",
+    "timestamp": "2026-04-26T21:14:47Z"
+  },
+  {
+    "senderAccount": "ACC-1009",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1192",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-19T00:00:00Z",
+    "amount": 6933.1,
+    "currency": "EUR",
+    "timestamp": "2026-05-06T14:46:29Z"
+  },
+  {
+    "senderAccount": "ACC-1006",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1079",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-09-21T00:00:00Z",
+    "amount": 75903.0,
+    "currency": "EUR",
+    "timestamp": "2026-04-22T19:24:26Z"
+  },
+  {
+    "senderAccount": "ACC-1080",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1087",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-22T00:00:00Z",
+    "amount": 2573.45,
+    "currency": "EUR",
+    "timestamp": "2026-02-16T08:51:25Z"
+  },
+  {
+    "senderAccount": "ACC-1025",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1112",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-11-25T00:00:00Z",
+    "amount": 3309.33,
+    "currency": "EUR",
+    "timestamp": "2026-01-20T08:41:24Z"
+  },
+  {
+    "senderAccount": "ACC-1038",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1076",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-31T00:00:00Z",
+    "amount": 6802.26,
+    "currency": "EUR",
+    "timestamp": "2026-03-15T02:25:53Z"
+  },
+  {
+    "senderAccount": "ACC-1150",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1185",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-07T00:00:00Z",
+    "amount": 2460.34,
+    "currency": "EUR",
+    "timestamp": "2026-05-11T09:11:10Z"
+  },
+  {
+    "senderAccount": "ACC-1042",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1189",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-10-08T00:00:00Z",
+    "amount": 4500.8,
+    "currency": "EUR",
+    "timestamp": "2026-02-17T08:43:00Z"
+  },
+  {
+    "senderAccount": "ACC-1037",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1033",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-07-15T00:00:00Z",
+    "amount": 6938.26,
+    "currency": "EUR",
+    "timestamp": "2026-04-15T21:35:11Z"
+  },
+  {
+    "senderAccount": "ACC-1121",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1122",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-10-10T00:00:00Z",
+    "amount": 2319.05,
+    "currency": "EUR",
+    "timestamp": "2026-05-07T07:43:48Z"
+  },
+  {
+    "senderAccount": "ACC-1001",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1105",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-23T00:00:00Z",
+    "amount": 122.67,
+    "currency": "EUR",
+    "timestamp": "2026-01-27T16:45:25Z"
+  },
+  {
+    "senderAccount": "ACC-1163",
+    "senderCountry": "NL",
+    "receiverAccount": "ACC-1062",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-05T00:00:00Z",
+    "amount": 9707.52,
+    "currency": "EUR",
+    "timestamp": "2026-01-22T14:50:25Z"
+  },
+  {
+    "senderAccount": "ACC-1190",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1127",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-03T00:00:00Z",
+    "amount": 4876.17,
+    "currency": "EUR",
+    "timestamp": "2026-06-11T17:18:38Z"
+  },
+  {
+    "senderAccount": "ACC-1072",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1199",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-10-15T00:00:00Z",
+    "amount": 1683.29,
+    "currency": "EUR",
+    "timestamp": "2026-05-15T01:51:06Z"
+  },
+  {
+    "senderAccount": "ACC-1131",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1106",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-12T00:00:00Z",
+    "amount": 6464.98,
+    "currency": "EUR",
+    "timestamp": "2026-03-30T16:50:06Z"
+  },
+  {
+    "senderAccount": "ACC-1056",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1114",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-08-03T00:00:00Z",
+    "amount": 5538.98,
+    "currency": "EUR",
+    "timestamp": "2026-03-14T15:31:24Z"
+  },
+  {
+    "senderAccount": "ACC-1169",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1122",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-09-05T00:00:00Z",
+    "amount": 7301.39,
+    "currency": "EUR",
+    "timestamp": "2026-04-13T00:54:03Z"
+  },
+  {
+    "senderAccount": "ACC-1086",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1029",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-04T00:00:00Z",
+    "amount": 6888.12,
+    "currency": "EUR",
+    "timestamp": "2026-04-01T22:34:56Z"
+  },
+  {
+    "senderAccount": "ACC-1111",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1070",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-12-12T00:00:00Z",
+    "amount": 5385.91,
+    "currency": "EUR",
+    "timestamp": "2026-05-05T04:08:34Z"
+  },
+  {
+    "senderAccount": "ACC-1078",
+    "senderCountry": "DE",
+    "receiverAccount": "DORM-9006",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2022-07-03T00:00:00Z",
+    "amount": 38280.71,
+    "currency": "EUR",
+    "timestamp": "2026-02-18T19:37:33Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1083",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-12-17T00:00:00Z",
+    "amount": 9371.79,
+    "currency": "EUR",
+    "timestamp": "2026-02-13T16:22:24Z"
+  },
+  {
+    "senderAccount": "ACC-1196",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1159",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-29T00:00:00Z",
+    "amount": 7436.22,
+    "currency": "EUR",
+    "timestamp": "2026-04-30T03:27:31Z"
+  },
+  {
+    "senderAccount": "ACC-1163",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1150",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-30T00:00:00Z",
+    "amount": 9769.11,
+    "currency": "EUR",
+    "timestamp": "2026-01-25T23:50:25Z"
+  },
+  {
+    "senderAccount": "ACC-1155",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1167",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-08-23T00:00:00Z",
+    "amount": 20000.0,
+    "currency": "EUR",
+    "timestamp": "2026-03-04T13:47:24Z"
+  },
+  {
+    "senderAccount": "ACC-1064",
+    "senderCountry": "BY",
+    "receiverAccount": "ACC-1122",
+    "receiverCountry": "RU",
+    "receiverLastActive": "2025-12-13T00:00:00Z",
+    "amount": 136553.17,
+    "currency": "EUR",
+    "timestamp": "2026-01-23T03:41:04Z"
+  },
+  {
+    "senderAccount": "ACC-1021",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1068",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-11-22T00:00:00Z",
+    "amount": 5930.26,
+    "currency": "EUR",
+    "timestamp": "2026-01-30T22:43:18Z"
+  },
+  {
+    "senderAccount": "ACC-1129",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1116",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-27T00:00:00Z",
+    "amount": 7306.37,
+    "currency": "EUR",
+    "timestamp": "2026-03-14T11:14:28Z"
+  },
+  {
+    "senderAccount": "ACC-1155",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1173",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-01T00:00:00Z",
+    "amount": 6239.2,
+    "currency": "EUR",
+    "timestamp": "2026-06-01T17:10:39Z"
+  },
+  {
+    "senderAccount": "ACC-1191",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1071",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-29T00:00:00Z",
+    "amount": 2651.95,
+    "currency": "EUR",
+    "timestamp": "2026-05-15T21:33:12Z"
+  },
+  {
+    "senderAccount": "ACC-1020",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1115",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-11-13T00:00:00Z",
+    "amount": 459.72,
+    "currency": "EUR",
+    "timestamp": "2026-03-14T01:20:47Z"
+  },
+  {
+    "senderAccount": "ACC-1120",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1004",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-10-03T00:00:00Z",
+    "amount": 25696.33,
+    "currency": "EUR",
+    "timestamp": "2026-05-26T10:42:21Z"
+  },
+  {
+    "senderAccount": "ACC-1084",
+    "senderCountry": "CH",
+    "receiverAccount": "ACC-1144",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-11-03T00:00:00Z",
+    "amount": 1730.77,
+    "currency": "EUR",
+    "timestamp": "2026-01-19T12:25:06Z"
+  },
+  {
+    "senderAccount": "ACC-1166",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1194",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-12T00:00:00Z",
+    "amount": 3834.24,
+    "currency": "EUR",
+    "timestamp": "2026-01-07T03:39:37Z"
+  },
+  {
+    "senderAccount": "ACC-1154",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1035",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-27T00:00:00Z",
+    "amount": 4458.6,
+    "currency": "EUR",
+    "timestamp": "2026-02-18T13:05:57Z"
+  },
+  {
+    "senderAccount": "ACC-1123",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1118",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-11T00:00:00Z",
+    "amount": 5886.89,
+    "currency": "EUR",
+    "timestamp": "2026-02-09T14:48:58Z"
+  },
+  {
+    "senderAccount": "ACC-1063",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1070",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-07-31T00:00:00Z",
+    "amount": 5783.38,
+    "currency": "EUR",
+    "timestamp": "2026-05-06T04:08:58Z"
+  },
+  {
+    "senderAccount": "ACC-1040",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1093",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-10-06T00:00:00Z",
+    "amount": 5447.24,
+    "currency": "EUR",
+    "timestamp": "2026-03-14T09:36:58Z"
+  },
+  {
+    "senderAccount": "ACC-1003",
+    "senderCountry": "RU",
+    "receiverAccount": "ACC-1146",
+    "receiverCountry": "RU",
+    "receiverLastActive": "2025-11-14T00:00:00Z",
+    "amount": 194824.65,
+    "currency": "EUR",
+    "timestamp": "2026-02-25T05:07:02Z"
+  },
+  {
+    "senderAccount": "ACC-1094",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1084",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-10-14T00:00:00Z",
+    "amount": 6384.2,
+    "currency": "EUR",
+    "timestamp": "2026-05-11T20:09:55Z"
+  },
+  {
+    "senderAccount": "ACC-1003",
+    "senderCountry": "SE",
+    "receiverAccount": "ACC-1054",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-31T00:00:00Z",
+    "amount": 7319.81,
+    "currency": "EUR",
+    "timestamp": "2026-02-06T21:34:28Z"
+  },
+  {
+    "senderAccount": "ACC-1190",
+    "senderCountry": "AT",
+    "receiverAccount": "ACC-1121",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-07-15T00:00:00Z",
+    "amount": 6349.53,
+    "currency": "EUR",
+    "timestamp": "2026-05-17T22:36:00Z"
+  },
+  {
+    "senderAccount": "ACC-1076",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1041",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-09-23T00:00:00Z",
+    "amount": 5432.43,
+    "currency": "EUR",
+    "timestamp": "2026-04-20T12:14:08Z"
+  },
+  {
+    "senderAccount": "ACC-1031",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1051",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-12-25T00:00:00Z",
+    "amount": 2919.13,
+    "currency": "EUR",
+    "timestamp": "2026-06-03T19:17:36Z"
+  },
+  {
+    "senderAccount": "ACC-1069",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1106",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-06T00:00:00Z",
+    "amount": 4432.56,
+    "currency": "EUR",
+    "timestamp": "2026-06-12T02:05:43Z"
+  },
+  {
+    "senderAccount": "ACC-1005",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1159",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-12-02T00:00:00Z",
+    "amount": 49478.31,
+    "currency": "EUR",
+    "timestamp": "2026-01-30T14:09:11Z"
+  },
+  {
+    "senderAccount": "ACC-1165",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1091",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-11-30T00:00:00Z",
+    "amount": 7594.64,
+    "currency": "EUR",
+    "timestamp": "2026-01-12T18:11:01Z"
+  },
+  {
+    "senderAccount": "ACC-1163",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1087",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-11-06T00:00:00Z",
+    "amount": 9917.91,
+    "currency": "EUR",
+    "timestamp": "2026-01-24T10:50:25Z"
+  },
+  {
+    "senderAccount": "ACC-1098",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1118",
+    "receiverCountry": "NL",
+    "receiverLastActive": "2025-12-21T00:00:00Z",
+    "amount": 3625.38,
+    "currency": "EUR",
+    "timestamp": "2026-04-23T16:31:51Z"
+  },
+  {
+    "senderAccount": "ACC-1099",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1143",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-08T00:00:00Z",
+    "amount": 1755.83,
+    "currency": "EUR",
+    "timestamp": "2026-01-23T20:48:21Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1017",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-11-01T00:00:00Z",
+    "amount": 1270.95,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:42:29Z"
+  },
+  {
+    "senderAccount": "ACC-1173",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1139",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-08-03T00:00:00Z",
+    "amount": 2428.28,
+    "currency": "EUR",
+    "timestamp": "2026-01-31T16:13:11Z"
+  },
+  {
+    "senderAccount": "ACC-1101",
+    "senderCountry": "BE",
+    "receiverAccount": "ACC-1166",
+    "receiverCountry": "BE",
+    "receiverLastActive": "2025-08-17T00:00:00Z",
+    "amount": 3071.07,
+    "currency": "EUR",
+    "timestamp": "2026-01-16T14:17:47Z"
+  },
+  {
+    "senderAccount": "ACC-1089",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1121",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-10-11T00:00:00Z",
+    "amount": 584.04,
+    "currency": "EUR",
+    "timestamp": "2026-01-19T22:57:22Z"
+  },
+  {
+    "senderAccount": "ACC-1163",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1002",
+    "receiverCountry": "FR",
+    "receiverLastActive": "2025-09-11T00:00:00Z",
+    "amount": 5177.01,
+    "currency": "EUR",
+    "timestamp": "2026-05-17T11:29:44Z"
+  },
+  {
+    "senderAccount": "ACC-1000",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1168",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-21T00:00:00Z",
+    "amount": 2926.15,
+    "currency": "EUR",
+    "timestamp": "2026-04-16T08:40:09Z"
+  },
+  {
+    "senderAccount": "ACC-1108",
+    "senderCountry": "GB",
+    "receiverAccount": "ACC-1047",
+    "receiverCountry": "US",
+    "receiverLastActive": "2025-07-19T00:00:00Z",
+    "amount": 7449.02,
+    "currency": "EUR",
+    "timestamp": "2026-04-05T12:02:51Z"
+  },
+  {
+    "senderAccount": "ACC-1013",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1161",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-08-11T00:00:00Z",
+    "amount": 5443.12,
+    "currency": "EUR",
+    "timestamp": "2026-05-06T16:39:41Z"
+  },
+  {
+    "senderAccount": "ACC-1196",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1126",
+    "receiverCountry": "GB",
+    "receiverLastActive": "2025-10-24T00:00:00Z",
+    "amount": 6212.15,
+    "currency": "EUR",
+    "timestamp": "2026-04-17T17:54:34Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "LU",
+    "receiverAccount": "ACC-1186",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-04T00:00:00Z",
+    "amount": 821.1,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:14:29Z"
+  },
+  {
+    "senderAccount": "ACC-1150",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1143",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-10-02T00:00:00Z",
+    "amount": 6995.18,
+    "currency": "EUR",
+    "timestamp": "2026-04-20T01:38:03Z"
+  },
+  {
+    "senderAccount": "ACC-1016",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1079",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-10-31T00:00:00Z",
+    "amount": 510.35,
+    "currency": "EUR",
+    "timestamp": "2026-05-16T16:03:56Z"
+  },
+  {
+    "senderAccount": "ACC-1196",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1199",
+    "receiverCountry": "AT",
+    "receiverLastActive": "2025-12-31T00:00:00Z",
+    "amount": 9649.21,
+    "currency": "EUR",
+    "timestamp": "2026-05-06T20:05:54Z"
+  },
+  {
+    "senderAccount": "ACC-1017",
+    "senderCountry": "FR",
+    "receiverAccount": "ACC-1134",
+    "receiverCountry": "SE",
+    "receiverLastActive": "2025-08-12T00:00:00Z",
+    "amount": 211.66,
+    "currency": "EUR",
+    "timestamp": "2026-04-16T15:36:20Z"
+  },
+  {
+    "senderAccount": "ACC-1083",
+    "senderCountry": "DE",
+    "receiverAccount": "ACC-1098",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-12-10T00:00:00Z",
+    "amount": 5812.51,
+    "currency": "EUR",
+    "timestamp": "2026-01-03T09:30:41Z"
+  },
+  {
+    "senderAccount": "ACC-1090",
+    "senderCountry": "DE",
+    "receiverAccount": "DORM-9008",
+    "receiverCountry": "CH",
+    "receiverLastActive": "2022-01-14T00:00:00Z",
+    "amount": 35803.76,
+    "currency": "EUR",
+    "timestamp": "2026-06-04T22:10:05Z"
+  },
+  {
+    "senderAccount": "ACC-1180",
+    "senderCountry": "RU",
+    "receiverAccount": "ACC-1054",
+    "receiverCountry": "DE",
+    "receiverLastActive": "2025-09-03T00:00:00Z",
+    "amount": 8607.6,
+    "currency": "EUR",
+    "timestamp": "2026-01-13T11:19:41Z"
+  },
+  {
+    "senderAccount": "ACC-1061",
+    "senderCountry": "US",
+    "receiverAccount": "ACC-1140",
+    "receiverCountry": "LU",
+    "receiverLastActive": "2025-08-18T00:00:00Z",
+    "amount": 2630.06,
+    "currency": "EUR",
+    "timestamp": "2026-04-21T04:06:29Z"
+  }
+]

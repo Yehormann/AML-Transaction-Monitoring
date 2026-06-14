@@ -1,0 +1,11 @@
+.rule-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 8px;
+  border-radius: var(--radius-sm);
+  background-color: var(--color-purple-light);
+  color: var(--color-purple-text);
+  font-size: 10px;
+  font-weight: 500;
+  white-space: nowrap;
+}
