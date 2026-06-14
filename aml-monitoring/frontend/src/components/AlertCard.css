@@ -1,0 +1,119 @@
+.alert-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: var(--color-bg);
+  border: 0.5px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 10px 12px 10px 14px;
+  min-width: 220px;
+}
+
+.alert-card-accent {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  border-radius: var(--radius-lg) 0 0 var(--radius-lg);
+}
+
+.alert-card-accent--open {
+  background-color: var(--color-amber);
+}
+
+.alert-card-accent--escalated {
+  background-color: var(--color-red);
+}
+
+.alert-card-accent--dismissed {
+  background-color: var(--color-border);
+}
+
+.alert-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.alert-card-id {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--color-text-primary);
+}
+
+.alert-card-meta {
+  font-size: 10px;
+  font-weight: 400;
+  color: var(--color-text-secondary);
+}
+
+.alert-card-rules {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.alert-card-actions {
+  display: flex;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.alert-card-btn {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  height: 22px;
+  padding: 0 10px;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+
+.alert-card-btn--escalate {
+  border: 1px solid var(--color-red);
+  color: var(--color-red-text);
+}
+
+.alert-card-btn--dismiss {
+  border: 1px solid var(--color-green);
+  color: var(--color-green-dismiss);
+}
+
+.alert-card-btn--teal {
+  border: 1px solid var(--color-teal);
+  color: var(--color-teal-text);
+}
+
+.alert-card-btn--disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.alert-card-escalated-note {
+  font-size: 10px;
+  font-weight: 400;
+  color: var(--color-text-secondary);
+}
+
+.alert-card-analyst-note {
+  font-size: 10px;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-text-secondary);
+}
+
+.alert-card--inline {
+  border: none;
+  border-radius: 0;
+  border-bottom: 0.5px solid var(--color-border);
+  min-width: 0;
+}
+
+.alert-card--inline:last-child {
+  border-bottom: none;
+}

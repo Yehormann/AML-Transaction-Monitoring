@@ -1,0 +1,58 @@
+.transaction-table-wrapper {
+  border: 0.5px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  width: 100%;
+}
+
+.transaction-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.transaction-table thead tr {
+  background-color: var(--color-sidebar);
+}
+
+.transaction-table th {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  padding: 8px 12px;
+  text-align: left;
+  border-bottom: 0.5px solid var(--color-border);
+}
+
+.transaction-table td {
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--color-text-primary);
+  padding: 8px 12px;
+  border-bottom: 0.5px solid var(--color-border);
+}
+
+.transaction-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.transaction-table tbody tr:hover {
+  background-color: var(--color-sidebar);
+}
+
+.transaction-table .cell-mono {
+  font-family: 'Courier New', monospace;
+  font-size: 10px;
+  color: var(--color-text-secondary);
+}
+
+.risk-score--low {
+  color: var(--color-green-text);
+}
+
+.risk-score--med {
+  color: var(--color-amber-text);
+}
+
+.risk-score--high {
+  color: var(--color-red-text);
+}
