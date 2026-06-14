@@ -7,11 +7,11 @@ import {
   MOCK_RULES,
   MOCK_ADVANCED_STATS,
 } from '../mockData';
-import StatCard from '../components/StatCard';
-import TransactionTable from '../components/TransactionTable';
-import AlertCard from '../components/AlertCard';
-import RuleEnginePanel from '../components/RuleEnginePanel';
-import AdvancedStatsPanel from '../components/AdvancedStatsPanel';
+import StatCard from '../components/StatCard/StatCard';
+import TransactionTable from '../components/TransactionTable/TransactionTable';
+import AlertCard from '../components/AlertCard/AlertCard';
+import RuleEnginePanel from '../components/RuleEnginePanel/RuleEnginePanel';
+import AdvancedStatsPanel from '../components/AdvancedStatsPanel/AdvancedStatsPanel';
 import './Dashboard.css';
 
 function Dashboard({ role }) {
