@@ -4,3 +4,13 @@ dist/
 *.log
 .DS_Store
 .claude/
+
+# Maven build output
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/settings.json
