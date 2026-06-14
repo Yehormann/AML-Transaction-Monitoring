@@ -3,6 +3,10 @@ import LoginModal from './components/LoginModal/LoginModal';
 import Sidebar from './components/Sidebar/Sidebar';
 import Topbar from './components/Topbar/Topbar';
 import Dashboard from './pages/Dashboard';
+import Transactions from './pages/Transactions';
+import Alerts from './pages/Alerts';
+import SarReports from './pages/SarReports';
+import AuditLog from './pages/AuditLog';
 
 function App() {
   const [role, setRole] = useState(null);
@@ -26,10 +30,10 @@ function App() {
         />
         <div style={{ flex: 1, overflowY: 'auto' }}>
           {activePage === 'dashboard' && <Dashboard role={role} />}
-          {activePage === 'transactions' && <div style={{ padding: 20 }}>Transactions</div>}
-          {activePage === 'alerts' && <div style={{ padding: 20 }}>Alerts</div>}
-          {activePage === 'sar-reports' && <div style={{ padding: 20 }}>SAR Reports</div>}
-          {activePage === 'audit-log' && <div style={{ padding: 20 }}>Audit Log</div>}
+          {activePage === 'transactions' && <Transactions role={role} />}
+          {activePage === 'alerts' && <Alerts role={role} />}
+          {activePage === 'sar-reports' && <SarReports role={role} />}
+          {activePage === 'audit-log' && <AuditLog role={role} />}
           {activePage === 'rule-engine' && <div style={{ padding: 20 }}>Rule Engine</div>}
           {activePage === 'advanced-stats' && <div style={{ padding: 20 }}>Advanced Stats</div>}
         </div>
