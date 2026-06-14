@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import LoginModal from './components/LoginModal';
-import Sidebar from './components/Sidebar';
-import Topbar from './components/Topbar';
+import LoginModal from './components/LoginModal/LoginModal';
+import Sidebar from './components/Sidebar/Sidebar';
+import Topbar from './components/Topbar/Topbar';
 import Dashboard from './pages/Dashboard';
 
 function App() {

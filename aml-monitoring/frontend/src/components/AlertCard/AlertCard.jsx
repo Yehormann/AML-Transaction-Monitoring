@@ -1,5 +1,5 @@
-import StatusBadge from './StatusBadge';
-import RuleTag from './RuleTag';
+import StatusBadge from '../StatusBadge/StatusBadge';
+import RuleTag from '../RuleTag/RuleTag';
 import './AlertCard.css';
 
 function getAccentClass(status) {

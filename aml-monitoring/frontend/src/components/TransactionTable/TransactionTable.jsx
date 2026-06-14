@@ -1,4 +1,4 @@
-import StatusBadge from './StatusBadge';
+import StatusBadge from '../StatusBadge/StatusBadge';
 import './TransactionTable.css';
 
 function getRiskClass(score) {
