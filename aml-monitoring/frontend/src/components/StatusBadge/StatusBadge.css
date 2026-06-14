@@ -1,0 +1,34 @@
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 8px;
+  border-radius: var(--radius-sm);
+  font-size: 10px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.status-badge--approved {
+  background-color: var(--color-green-approved);
+  color: var(--color-green-text);
+}
+
+.status-badge--flagged {
+  background-color: var(--color-red-light);
+  color: var(--color-red-text);
+}
+
+.status-badge--open {
+  background-color: var(--color-amber-light);
+  color: var(--color-amber-text);
+}
+
+.status-badge--escalated {
+  background-color: var(--color-red-light);
+  color: var(--color-red-text);
+}
+
+.status-badge--dismissed {
+  background-color: var(--color-gray-light);
+  color: var(--color-gray-text);
+}
