@@ -10,4 +10,6 @@ public interface AlertRepository extends JpaRepository<Alert, UUID> {
     List<Alert> findByStatus(String status);
 
     List<Alert> findAllByOrderByCreatedAtDesc();
+
+    long countByStatus(String status);
 }

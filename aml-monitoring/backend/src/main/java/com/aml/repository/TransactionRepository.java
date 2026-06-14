@@ -12,4 +12,6 @@ public interface TransactionRepository extends JpaRepository<Transaction, UUID> 
     List<Transaction> findBySenderAccountAndTimestampAfter(String senderAccount, LocalDateTime after);
 
     List<Transaction> findBySenderAccountAndAmountAndTimestampAfter(String senderAccount, BigDecimal amount, LocalDateTime after);
+
+    long countByStatus(String status);
 }
