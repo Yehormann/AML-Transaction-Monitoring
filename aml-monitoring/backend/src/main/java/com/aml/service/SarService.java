@@ -38,8 +38,8 @@ public class SarService {
         report.setPdfPath(pdfPath);
         sarReportRepository.save(report);
 
-        auditLogRepository.save(new AuditLog("SAR", alert.getId(), "SAR_FILED", performedBy,
-                "SAR report generated: " + pdfPath));
+        String logNote = "SAR report generated: " + pdfPath;
+        auditLogRepository.save(new AuditLog("SAR", alert.getId(), "SAR_FILED", performedBy, logNote));
     }
 
     @Transactional(readOnly = true)

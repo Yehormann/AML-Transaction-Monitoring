@@ -30,20 +30,19 @@ public class SarPdfGenerator {
             try (PdfDocument pdf = new PdfDocument(new PdfWriter(path));
                  Document doc = new Document(pdf)) {
 
-                doc.add(new Paragraph("SUSPICIOUS ACTIVITY REPORT (SAR)")
-                        .setBold().setFontSize(18).setMarginBottom(4));
-                doc.add(new Paragraph("AML Transaction Monitoring System")
-                        .setFontSize(10).setItalic().setMarginBottom(20));
+                Paragraph title = new Paragraph("SUSPICIOUS ACTIVITY REPORT (SAR)").setBold().setFontSize(18);
+                title.setMarginBottom(4);
+                doc.add(title);
+                doc.add(new Paragraph("AML Transaction Monitoring System").setFontSize(10).setItalic().setMarginBottom(20));
 
                 doc.add(new Paragraph("Report Details").setBold().setFontSize(13).setMarginBottom(5));
                 Table meta = new Table(UnitValue.createPercentArray(new float[]{40, 60})).useAllAvailableWidth();
                 addRow(meta, "Alert ID", alert.getId().toString());
                 addRow(meta, "Risk Score", String.valueOf(alert.getRiskScoreSnapshot()));
-                addRow(meta, "Alert Status", alert.getStatus());
+                addRow(meta, "Status", alert.getStatus());
                 addRow(meta, "Filed At", LocalDateTime.now().format(FMT));
-                if (alert.getAnalystNote() != null && !alert.getAnalystNote().isBlank()) {
+                if (alert.getAnalystNote() != null && !alert.getAnalystNote().isBlank())
                     addRow(meta, "Analyst Note", alert.getAnalystNote());
-                }
                 doc.add(meta.setMarginBottom(20));
 
                 var tx = alert.getTransaction();
@@ -51,10 +50,8 @@ public class SarPdfGenerator {
                     doc.add(new Paragraph("Transaction Details").setBold().setFontSize(13).setMarginBottom(5));
                     Table txTable = new Table(UnitValue.createPercentArray(new float[]{40, 60})).useAllAvailableWidth();
                     addRow(txTable, "Transaction ID", tx.getId().toString());
-                    addRow(txTable, "Sender Account", tx.getSenderAccount());
-                    addRow(txTable, "Sender Country", tx.getSenderCountry());
-                    addRow(txTable, "Receiver Account", tx.getReceiverAccount());
-                    addRow(txTable, "Receiver Country", tx.getReceiverCountry());
+                    addRow(txTable, "Sender", tx.getSenderAccount() + " (" + tx.getSenderCountry() + ")");
+                    addRow(txTable, "Receiver", tx.getReceiverAccount() + " (" + tx.getReceiverCountry() + ")");
                     addRow(txTable, "Amount", tx.getAmount() + " " + tx.getCurrency());
                     addRow(txTable, "Timestamp", tx.getTimestamp().format(FMT));
                     doc.add(txTable.setMarginBottom(20));
@@ -63,9 +60,7 @@ public class SarPdfGenerator {
                     doc.add(new Paragraph(tx.getFiredRules()).setFontSize(9).setMarginBottom(20));
                 }
 
-                doc.add(new Paragraph(
-                        "This report was generated automatically by the AML Transaction Monitoring System.")
-                        .setItalic().setFontSize(9));
+                doc.add(new Paragraph("Generated automatically by the AML Monitoring System.").setItalic().setFontSize(9));
             }
 
             return path;

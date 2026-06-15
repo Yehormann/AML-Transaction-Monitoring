@@ -29,12 +29,8 @@ public class TransactionService {
     private final SarService sarService;
     private final ObjectMapper objectMapper;
 
-    public TransactionService(
-            TransactionRepository transactionRepository,
-            AlertRepository alertRepository,
-            RuleEngineService ruleEngineService,
-            SarService sarService,
-            ObjectMapper objectMapper) {
+    public TransactionService(TransactionRepository transactionRepository, AlertRepository alertRepository,
+                              RuleEngineService ruleEngineService, SarService sarService, ObjectMapper objectMapper) {
         this.transactionRepository = transactionRepository;
         this.alertRepository = alertRepository;
         this.ruleEngineService = ruleEngineService;
@@ -58,9 +54,7 @@ public class TransactionService {
 
         tx.setRiskScore(score);
         tx.setFiredRules(toJson(fired));
-        if (score > ALERT_THRESHOLD) {
-            tx.setStatus("FLAGGED");
-        }
+        if (score > ALERT_THRESHOLD) tx.setStatus("FLAGGED");
         tx = transactionRepository.save(tx);
 
         if (score > ALERT_THRESHOLD) {
@@ -82,9 +76,7 @@ public class TransactionService {
 
     @Transactional(readOnly = true)
     public List<TransactionResponse> getAll() {
-        return transactionRepository.findAll().stream()
-                .map(TransactionResponse::from)
-                .toList();
+        return transactionRepository.findAll().stream().map(TransactionResponse::from).toList();
     }
 
     private String toJson(List<RuleResult> rules) {

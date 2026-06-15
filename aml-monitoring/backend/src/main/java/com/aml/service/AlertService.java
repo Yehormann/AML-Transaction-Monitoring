@@ -37,9 +37,9 @@ public class AlertService {
     }
 
     public AlertResponse dismiss(UUID id, String note, String performedBy) {
-        if (note == null || note.isBlank()) {
-            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Analyst note is required to dismiss an alert");
-        }
+        if (note == null || note.isBlank())
+            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "note is required to dismiss");
+
         Alert alert = alertRepository.findById(id)
                 .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Alert not found"));
 
@@ -47,7 +47,6 @@ public class AlertService {
         alert.setAnalystNote(note);
         alert.setUpdatedAt(LocalDateTime.now());
         alertRepository.save(alert);
-
         auditLogRepository.save(new AuditLog("ALERT", id, "ALERT_DISMISSED", performedBy, note));
 
         return AlertResponse.from(alert);
@@ -57,16 +56,13 @@ public class AlertService {
         Alert alert = alertRepository.findById(id)
                 .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Alert not found"));
 
-        if ("DISMISSED".equals(alert.getStatus())) {
+        if ("DISMISSED".equals(alert.getStatus()))
             throw new ResponseStatusException(HttpStatus.CONFLICT, "Cannot escalate a dismissed alert");
-        }
 
         alert.setStatus("ESCALATED");
         alert.setUpdatedAt(LocalDateTime.now());
         alertRepository.save(alert);
-
         sarService.fileReport(alert, performedBy);
-
         auditLogRepository.save(new AuditLog("ALERT", id, "ALERT_ESCALATED", performedBy, null));
 
         return AlertResponse.from(alert);
