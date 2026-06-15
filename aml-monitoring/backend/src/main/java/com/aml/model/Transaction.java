@@ -44,7 +44,7 @@ public class Transaction {
     @Column(nullable = false)
     private String status = "APPROVED";
 
-    @Column(name = "fired_rules", nullable = false)
+    @Column(name = "fired_rules", nullable = false, length = 5000)
     private String firedRules = "[]";
 
     @Column(name = "created_at", nullable = false, updatable = false)
