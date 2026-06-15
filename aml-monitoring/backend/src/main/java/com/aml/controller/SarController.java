@@ -1,5 +1,7 @@
 package com.aml.controller;
 
+import com.aml.dto.SarReportResponse;
+import com.aml.repository.SarReportRepository;
 import com.aml.service.SarService;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
@@ -7,6 +9,7 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
 import java.util.UUID;
 
 @RestController
@@ -14,9 +17,17 @@ import java.util.UUID;
 public class SarController {
 
     private final SarService sarService;
+    private final SarReportRepository sarReportRepository;
 
-    public SarController(SarService sarService) {
+    public SarController(SarService sarService, SarReportRepository sarReportRepository) {
         this.sarService = sarService;
+        this.sarReportRepository = sarReportRepository;
+    }
+
+    @GetMapping
+    public List<SarReportResponse> getAll() {
+        return sarReportRepository.findAllByOrderByFiledAtDesc()
+                .stream().map(SarReportResponse::from).toList();
     }
 
     @GetMapping("/{id}")
