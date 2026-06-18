@@ -1,6 +1,8 @@
 package com.aml.model;
 
 import jakarta.persistence.*;
+import org.hibernate.annotations.JdbcTypeCode;
+import org.hibernate.type.SqlTypes;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -44,7 +46,8 @@ public class Transaction {
     @Column(nullable = false)
     private String status = "APPROVED";
 
-    @Column(name = "fired_rules", nullable = false, length = 5000)
+    @JdbcTypeCode(SqlTypes.JSON)
+    @Column(name = "fired_rules", nullable = false, columnDefinition = "jsonb")
     private String firedRules = "[]";
 
     @Column(name = "created_at", nullable = false, updatable = false)

@@ -13,7 +13,8 @@ function formatAmount(amount) {
 }
 
 function AlertCard({ alert, role, onEscalate, onDismiss, onOverrideReopen, onFileSar, inline }) {
-  const { id, status, transaction, firedRules, analystNote } = alert;
+  const { id, status, firedRules, analystNote } = alert;
+  const transaction = alert.transaction || {};
   const isAnalyst = role === 'ANALYST';
   const isAdmin = role === 'ADMIN';
 

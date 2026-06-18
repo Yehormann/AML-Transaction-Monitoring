@@ -1,19 +1,21 @@
-import { useState } from 'react';
-import rawTransactions from '../../../backend/src/main/resources/data/transactions.json';
+import { useState, useEffect } from 'react';
+import { getTransactions, submitTransaction } from '../api/client';
 import TransactionTable from '../components/TransactionTable/TransactionTable';
 import './Transactions.css';
 
-function buildTransactions(raw) {
-  return raw.map((tx, i) => ({
-    id: 'tx-' + String(i + 1).padStart(4, '0'),
-    senderAccount: tx.senderAccount,
-    receiverCountry: tx.receiverCountry,
-    amount: tx.amount,
-    riskScore: 0,
-    status: 'PENDING',
-    firedRules: [],
-    createdAt: tx.timestamp,
-  }));
+function parseFiredRules(raw) {
+  if (Array.isArray(raw)) return raw;
+  if (typeof raw === 'string') {
+    try { return JSON.parse(raw); } catch { return []; }
+  }
+  return [];
+}
+
+function mapTransaction(tx) {
+  return {
+    ...tx,
+    firedRules: parseFiredRules(tx.firedRules).map((r) => ({ name: r.ruleName || r.name, score: r.score })),
+  };
 }
 
 const EMPTY_FORM = {
@@ -35,11 +37,18 @@ function getCurrentDatetime() {
 }
 
 function Transactions({ role }) {
-  const [transactions, setTransactions] = useState(() => buildTransactions(rawTransactions));
+  const [transactions, setTransactions] = useState([]);
   const [modalOpen, setModalOpen] = useState(false);
   const [formData, setFormData] = useState({ ...EMPTY_FORM, timestamp: getCurrentDatetime() });
   const [submitSuccess, setSubmitSuccess] = useState(false);
   const [formError, setFormError] = useState(null);
+  const [submitting, setSubmitting] = useState(false);
+
+  useEffect(() => {
+    getTransactions()
+      .then((data) => setTransactions(data.map(mapTransaction)))
+      .catch(() => {});
+  }, []);
 
   const isAdmin = role === 'ADMIN';
   const focusClass = isAdmin ? 'form-input--focus-teal' : 'form-input--focus-purple';
@@ -60,7 +69,7 @@ function Transactions({ role }) {
     if (formError) setFormError(null);
   }
 
-  function handleSubmit(e) {
+  async function handleSubmit(e) {
     e.preventDefault();
 
     const { senderAccount, senderCountry, receiverAccount, receiverCountry, amount, receiverLastActive, timestamp } = formData;
@@ -69,24 +78,34 @@ function Transactions({ role }) {
       return;
     }
 
-    const riskScore = Math.floor(Math.random() * 101);
-    const newTx = {
-      id: 'tx-' + Date.now(),
-      senderAccount,
-      receiverCountry,
-      amount: parseFloat(amount),
-      riskScore,
-      status: riskScore > 40 ? 'FLAGGED' : 'APPROVED',
-      firedRules: [],
-      createdAt: new Date().toISOString(),
-    };
+    setSubmitting(true);
+    setFormError(null);
 
-    setSubmitSuccess(true);
-    setTimeout(() => {
-      setTransactions((prev) => [newTx, ...prev]);
-      setSubmitSuccess(false);
-      setModalOpen(false);
-    }, 1500);
+    try {
+      const payload = {
+        senderAccount,
+        senderCountry,
+        receiverAccount,
+        receiverCountry,
+        receiverLastActive: receiverLastActive,
+        amount: parseFloat(amount),
+        currency: formData.currency,
+        timestamp: timestamp + ':00',
+      };
+      const created = await submitTransaction(payload);
+      const mapped = mapTransaction(created);
+
+      setSubmitSuccess(true);
+      setTimeout(() => {
+        setTransactions((prev) => [mapped, ...prev]);
+        setSubmitSuccess(false);
+        setModalOpen(false);
+      }, 1500);
+    } catch (err) {
+      setFormError('Submit failed: ' + err.message);
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   return (
@@ -211,8 +230,9 @@ function Transactions({ role }) {
                   <button
                     type="submit"
                     className={`form-submit ${isAdmin ? 'form-submit--admin' : 'form-submit--analyst'}`}
+                    disabled={submitting}
                   >
-                    Submit transaction
+                    {submitting ? 'Submitting...' : 'Submit transaction'}
                   </button>
                 </form>
               </>

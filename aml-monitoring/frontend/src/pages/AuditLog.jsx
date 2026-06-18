@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { MOCK_AUDIT_LOG } from '../mockData';
+import { useState, useEffect } from 'react';
+import { getAuditLog } from '../api/client';
 import './AuditLog.css';
 
 const ACTION_MAP = {
@@ -28,10 +28,21 @@ function formatDate(isoString) {
   return day + ' ' + month + ' ' + year + ' ' + hours + ':' + mins;
 }
 
+function shortId(uuid) {
+  if (!uuid) return '—';
+  return uuid.length > 8 ? uuid.substring(0, 8) : uuid;
+}
+
 function AuditLog({ role }) {
-  const [auditLog] = useState([...MOCK_AUDIT_LOG]);
+  const [auditLog, setAuditLog] = useState([]);
   const [actionFilter, setActionFilter] = useState('ALL');
   const [expandedId, setExpandedId] = useState(null);
+
+  useEffect(() => {
+    getAuditLog()
+      .then(setAuditLog)
+      .catch(() => {});
+  }, []);
 
   const isAdmin = role === 'ADMIN';
   const activeClass = isAdmin ? 'audit-filter-btn--active-admin' : 'audit-filter-btn--active-analyst';
@@ -52,8 +63,8 @@ function AuditLog({ role }) {
 
   function getPerformedByClass(performedBy) {
     if (performedBy === 'admin') return 'audit-performed-by--admin';
-    if (performedBy === 'analyst') return 'audit-cell-performed-by--analyst';
-    return 'audit-cell-performed-by--system';
+    if (performedBy === 'analyst') return 'audit-performed-by--analyst';
+    return 'audit-performed-by--system';
   }
 
   return (
@@ -116,7 +127,8 @@ function AuditLog({ role }) {
             )}
             {filtered.map((entry) => {
               const isExpanded = expandedId === entry.id;
-              const actionConfig = ACTION_MAP[entry.action];
+              const actionConfig = ACTION_MAP[entry.action] || { className: '', label: entry.action };
+              const noteText = entry.note || '';
               return (
                 <tr
                   key={entry.id}
@@ -130,7 +142,7 @@ function AuditLog({ role }) {
                     </span>
                   </td>
                   <td className="audit-cell-entity-type">{entry.entityType}</td>
-                  <td className="audit-cell-entity-id">{entry.entityId}</td>
+                  <td className="audit-cell-entity-id">{shortId(entry.entityId)}</td>
                   {isAdmin && (
                     <td className={getPerformedByClass(entry.performedBy)}>
                       {entry.performedBy}
@@ -139,7 +151,7 @@ function AuditLog({ role }) {
                   <td>
                     {isExpanded ? (
                       <div>
-                        <div className="audit-note-full">{entry.note}</div>
+                        <div className="audit-note-full">{noteText}</div>
                         <button
                           className="audit-collapse-link"
                           onClick={(e) => {
@@ -152,7 +164,7 @@ function AuditLog({ role }) {
                       </div>
                     ) : (
                       <div className="audit-note-short">
-                        {entry.note.length > 60 ? entry.note.slice(0, 60) + '...' : entry.note}
+                        {noteText.length > 60 ? noteText.slice(0, 60) + '...' : (noteText || '—')}
                       </div>
                     )}
                   </td>

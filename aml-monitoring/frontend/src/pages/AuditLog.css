@@ -161,6 +161,15 @@
   font-weight: 500;
 }
 
+.audit-performed-by--analyst {
+  color: var(--color-text-primary);
+}
+
+.audit-performed-by--system {
+  color: var(--color-text-secondary);
+  font-style: italic;
+}
+
 .audit-note-short {
   font-size: 11px;
   color: var(--color-text-secondary);

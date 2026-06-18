@@ -82,3 +82,14 @@
   font-family: 'Inter', sans-serif;
   cursor: pointer;
 }
+
+.login-submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.login-error {
+  font-size: 12px;
+  color: var(--color-red);
+  margin-top: -8px;
+}

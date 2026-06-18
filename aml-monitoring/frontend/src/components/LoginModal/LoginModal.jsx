@@ -1,8 +1,16 @@
 import { useState } from 'react';
+import { setCredentials } from '../../api/client';
 import './LoginModal.css';
 
 function LoginModal({ onLogin }) {
   const [selectedRole, setSelectedRole] = useState('ANALYST');
+
+  function handleLogin() {
+    // Set backend credentials based on selected role (no real auth)
+    const username = selectedRole === 'ANALYST' ? 'analyst' : 'admin';
+    setCredentials(username, username);
+    onLogin(selectedRole);
+  }
 
   return (
     <div className="login-overlay">
@@ -26,7 +34,7 @@ function LoginModal({ onLogin }) {
           <input type="password" placeholder="Enter password" />
         </div>
 
-        <button className="login-submit" onClick={() => onLogin(selectedRole)}>
+        <button className="login-submit" onClick={handleLogin}>
           Log in
         </button>
       </div>

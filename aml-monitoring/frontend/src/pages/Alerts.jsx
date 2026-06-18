@@ -1,33 +1,28 @@
-import { useState } from 'react';
-import { MOCK_ALERTS } from '../mockData';
+import { useState, useEffect } from 'react';
+import { getAlerts, dismissAlert, escalateAlert } from '../api/client';
 import StatusBadge from '../components/StatusBadge/StatusBadge';
 import RuleTag from '../components/RuleTag/RuleTag';
 import './Alerts.css';
 
-const EXTRA_ALERT = {
-  id: 'ALT-0014',
-  status: 'OPEN',
-  riskScoreSnapshot: 65,
-  analystNote: null,
-  createdAt: '2026-05-29T11:00:00Z',
-  updatedAt: '2026-05-29T11:00:00Z',
-  transaction: {
-    id: 'tx-0034',
-    senderAccount: 'ACC-1882',
-    receiverCountry: 'NG',
-    amount: 22000,
-    currency: 'EUR',
-  },
-  firedRules: [
-    { name: 'LargeAmountRule', score: 40 },
-    { name: 'HighRiskCountryRule', score: 35 },
-  ],
-};
-
 const FILTERS = ['ALL', 'OPEN', 'DISMISSED', 'ESCALATED'];
 
+function parseFiredRules(raw) {
+  if (Array.isArray(raw)) return raw;
+  if (typeof raw === 'string') {
+    try { return JSON.parse(raw); } catch { return []; }
+  }
+  return [];
+}
+
+function mapAlert(a) {
+  return {
+    ...a,
+    firedRules: parseFiredRules(a.firedRules).map((r) => ({ name: r.ruleName || r.name, score: r.score })),
+  };
+}
+
 function formatAmount(amount) {
-  return '\u20AC' + amount.toLocaleString();
+  return '\u20AC' + Number(amount).toLocaleString();
 }
 
 function getAccentClass(status) {
@@ -37,11 +32,17 @@ function getAccentClass(status) {
 }
 
 function Alerts({ role }) {
-  const [alerts, setAlerts] = useState([...MOCK_ALERTS, EXTRA_ALERT]);
+  const [alerts, setAlerts] = useState([]);
   const [activeFilter, setActiveFilter] = useState('ALL');
   const [dismissTarget, setDismissTarget] = useState(null);
   const [dismissNote, setDismissNote] = useState('');
   const [dismissError, setDismissError] = useState(null);
+
+  useEffect(() => {
+    getAlerts()
+      .then((data) => setAlerts(data.map(mapAlert)))
+      .catch(() => {});
+  }, []);
 
   const isAdmin = role === 'ADMIN';
   const activeTabClass = isAdmin ? 'filter-tab--active-admin' : 'filter-tab--active-analyst';
@@ -56,16 +57,16 @@ function Alerts({ role }) {
     return alerts.filter((a) => a.status === filter).length;
   }
 
-  function handleEscalate(id) {
+  async function handleEscalate(id) {
     const msg = isAdmin
       ? `Escalate ${id} as administrator?`
       : `Escalate ${id}? This will trigger SAR generation.`;
-    if (window.confirm(msg)) {
-      setAlerts((prev) =>
-        prev.map((a) =>
-          a.id === id ? { ...a, status: 'ESCALATED', analystNote: isAdmin ? a.analystNote : 'Escalated by analyst', updatedAt: new Date().toISOString() } : a
-        )
-      );
+    if (!window.confirm(msg)) return;
+    try {
+      const updated = await escalateAlert(id);
+      setAlerts((prev) => prev.map((a) => (a.id === id ? mapAlert(updated) : a)));
+    } catch (err) {
+      window.alert('Escalate failed: ' + err.message);
     }
   }
 
@@ -75,20 +76,19 @@ function Alerts({ role }) {
     setDismissError(null);
   }
 
-  function handleDismissConfirm() {
+  async function handleDismissConfirm() {
     if (!dismissNote.trim()) {
       setDismissError('Note is required before dismissing');
       return;
     }
-    setAlerts((prev) =>
-      prev.map((a) =>
-        a.id === dismissTarget
-          ? { ...a, status: 'DISMISSED', analystNote: dismissNote, updatedAt: new Date().toISOString() }
-          : a
-      )
-    );
-    setDismissTarget(null);
-    setDismissNote('');
+    try {
+      const updated = await dismissAlert(dismissTarget, dismissNote);
+      setAlerts((prev) => prev.map((a) => (a.id === dismissTarget ? mapAlert(updated) : a)));
+      setDismissTarget(null);
+      setDismissNote('');
+    } catch (err) {
+      setDismissError('Dismiss failed: ' + err.message);
+    }
   }
 
   function handleDismissCancel() {
@@ -97,23 +97,12 @@ function Alerts({ role }) {
     setDismissError(null);
   }
 
-  function handleOverrideReopen(id) {
-    if (window.confirm(`Override and reopen ${id}?`)) {
-      setAlerts((prev) =>
-        prev.map((a) =>
-          a.id === id ? { ...a, status: 'OPEN', analystNote: null, updatedAt: new Date().toISOString() } : a
-        )
-      );
-    }
+  function handleOverrideReopen() {
+    window.alert('Override/reopen is not supported by the backend yet.');
   }
 
-  function handleFileSar(id) {
-    window.alert(`SAR filed manually for ${id}`);
-    setAlerts((prev) =>
-      prev.map((a) =>
-        a.id === id ? { ...a, status: 'ESCALATED', updatedAt: new Date().toISOString() } : a
-      )
-    );
+  function handleFileSar() {
+    window.alert('SAR is auto-filed on escalation by the backend.');
   }
 
   return (
@@ -138,7 +127,7 @@ function Alerts({ role }) {
         )}
 
         {filtered.map((alert) => {
-          const tx = alert.transaction;
+          const tx = alert.transaction || {};
           return (
             <div className="alert-card" key={alert.id}>
               <div className={`alert-card__accent ${getAccentClass(alert.status)}`} />
@@ -149,14 +138,14 @@ function Alerts({ role }) {
               </div>
 
               <span className="alert-card__meta">
-                {tx.id} &middot; {tx.senderAccount} &middot; {formatAmount(tx.amount)} &middot; {tx.receiverCountry}
+                {tx.id ? tx.id.substring(0, 8) : '—'} &middot; {tx.senderAccount || '—'} &middot; {formatAmount(tx.amount || 0)} &middot; {tx.receiverCountry || '—'}
               </span>
 
               <span className="alert-card__score">Score: {alert.riskScoreSnapshot}</span>
 
               <div className="alert-card__rules">
-                {alert.firedRules.map((rule) => (
-                  <RuleTag key={rule.name} name={rule.name} score={rule.score} />
+                {alert.firedRules.map((rule, i) => (
+                  <RuleTag key={rule.name + i} name={rule.name} score={rule.score} />
                 ))}
               </div>
 
@@ -265,7 +254,7 @@ function Alerts({ role }) {
         <div className="dismiss-overlay" onClick={handleDismissCancel}>
           <div className="dismiss-card" onClick={(e) => e.stopPropagation()}>
             <div className="dismiss-header">
-              <h3>Dismiss {dismissTarget}</h3>
+              <h3>Dismiss alert</h3>
               <button className="dismiss-close" onClick={handleDismissCancel}>&times;</button>
             </div>
             <span className="dismiss-subtitle">
